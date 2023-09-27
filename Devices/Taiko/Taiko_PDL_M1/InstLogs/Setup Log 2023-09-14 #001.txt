@@ -1,0 +1,1557 @@
+2023-09-14 09:01:28.877   Log opened. (Time zone: UTC+02:00)
+2023-09-14 09:01:28.877   Setup version: Inno Setup version 5.6.1 (a)
+2023-09-14 09:01:28.877   Original Setup EXE: C:\Users\Mikel\Documents\Acquisition\Taiko\PDLM_Drv_Setup.exe
+2023-09-14 09:01:28.877   Setup command line: /SL5="$1D06BC,27178131,58368,C:\Users\Mikel\Documents\Acquisition\Taiko\PDLM_Drv_Setup.exe" /SPAWNWND=$5607B8 /NOTIFYWND=$1B07D0 
+2023-09-14 09:01:28.877   Windows version: 10.0.19044  (NT platform: Yes)
+2023-09-14 09:01:28.877   64-bit Windows: Yes
+2023-09-14 09:01:28.877   Processor architecture: x64
+2023-09-14 09:01:28.877   User privileges: Administrative
+2023-09-14 09:01:28.877   64-bit install mode: No
+2023-09-14 09:01:28.877   Created temporary directory: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp
+2023-09-14 09:01:28.955   -- DLL function import --
+2023-09-14 09:01:28.955   Function name: PDLM_GetLibraryVersion
+2023-09-14 09:01:28.955   DLL name: files:MyOld.dll
+2023-09-14 09:01:28.955   Extracting temporary file: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyOld.dll
+2023-09-14 09:01:28.986   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyOld.dll
+2023-09-14 09:01:28.986   Importing the DLL function.
+2023-09-14 09:01:29.017   Successfully imported the DLL function. Delay loaded? No
+2023-09-14 09:01:29.017   -- DLL function import --
+2023-09-14 09:01:29.017   Function name: PDLM_DecodeError
+2023-09-14 09:01:29.017   DLL name: files:MyOld.dll
+2023-09-14 09:01:29.017   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyOld.dll
+2023-09-14 09:01:29.017   Importing the DLL function.
+2023-09-14 09:01:29.017   Successfully imported the DLL function. Delay loaded? No
+2023-09-14 09:01:29.017   -- DLL function import --
+2023-09-14 09:01:29.017   Function name: PDLM_OpenDevice
+2023-09-14 09:01:29.017   DLL name: files:MyOld.dll
+2023-09-14 09:01:29.017   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyOld.dll
+2023-09-14 09:01:29.017   Importing the DLL function.
+2023-09-14 09:01:29.017   Successfully imported the DLL function. Delay loaded? No
+2023-09-14 09:01:29.017   -- DLL function import --
+2023-09-14 09:01:29.017   Function name: PDLM_OpenGetSerNumAndClose
+2023-09-14 09:01:29.017   DLL name: files:MyOld.dll
+2023-09-14 09:01:29.017   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyOld.dll
+2023-09-14 09:01:29.017   Importing the DLL function.
+2023-09-14 09:01:29.017   Successfully imported the DLL function. Delay loaded? No
+2023-09-14 09:01:29.017   -- DLL function import --
+2023-09-14 09:01:29.017   Function name: PDLM_CloseDevice
+2023-09-14 09:01:29.017   DLL name: files:MyOld.dll
+2023-09-14 09:01:29.017   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyOld.dll
+2023-09-14 09:01:29.017   Importing the DLL function.
+2023-09-14 09:01:29.017   Successfully imported the DLL function. Delay loaded? Yes
+2023-09-14 09:01:29.017   -- DLL function import --
+2023-09-14 09:01:29.017   Function name: PDLM_SetExclusiveUI
+2023-09-14 09:01:29.017   DLL name: files:MyOld.dll
+2023-09-14 09:01:29.017   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyOld.dll
+2023-09-14 09:01:29.017   Importing the DLL function.
+2023-09-14 09:01:29.017   Successfully imported the DLL function. Delay loaded? No
+2023-09-14 09:01:29.017   -- DLL function import --
+2023-09-14 09:01:29.017   Function name: PDLM_GetFWVersion
+2023-09-14 09:01:29.017   DLL name: files:MyOld.dll
+2023-09-14 09:01:29.017   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyOld.dll
+2023-09-14 09:01:29.017   Importing the DLL function.
+2023-09-14 09:01:29.017   Successfully imported the DLL function. Delay loaded? No
+2023-09-14 09:01:29.017   -- DLL function import --
+2023-09-14 09:01:29.017   Function name: PDLM_GetLibraryVersion
+2023-09-14 09:01:29.017   DLL name: files:MyNew.dll,pquwstub.dll
+2023-09-14 09:01:29.017   Extracting temporary file: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyNew.dll
+2023-09-14 09:01:29.049   Extracting temporary file: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\pquwstub.dll
+2023-09-14 09:01:29.236   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyNew.dll
+2023-09-14 09:01:29.236   Importing the DLL function.
+2023-09-14 09:01:29.236   Successfully imported the DLL function. Delay loaded? Yes
+2023-09-14 09:01:29.236   -- DLL function import --
+2023-09-14 09:01:29.236   Function name: PDLM_LibIsRunningInWine
+2023-09-14 09:01:29.236   DLL name: files:MyNew.dll,pquwstub.dll
+2023-09-14 09:01:29.236   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyNew.dll
+2023-09-14 09:01:29.236   Importing the DLL function.
+2023-09-14 09:01:29.236   Successfully imported the DLL function. Delay loaded? Yes
+2023-09-14 09:01:29.236   -- DLL function import --
+2023-09-14 09:01:29.236   Function name: PDLM_GetUSBDriverInfo
+2023-09-14 09:01:29.236   DLL name: files:MyNew.dll,pquwstub.dll
+2023-09-14 09:01:29.236   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyNew.dll
+2023-09-14 09:01:29.236   Importing the DLL function.
+2023-09-14 09:01:29.236   Successfully imported the DLL function. Delay loaded? Yes
+2023-09-14 09:01:29.236   -- DLL function import --
+2023-09-14 09:01:29.236   Function name: PDLM_DecodeError
+2023-09-14 09:01:29.236   DLL name: files:MyNew.dll,pquwstub.dll
+2023-09-14 09:01:29.236   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyNew.dll
+2023-09-14 09:01:29.236   Importing the DLL function.
+2023-09-14 09:01:29.236   Successfully imported the DLL function. Delay loaded? Yes
+2023-09-14 09:01:29.236   -- DLL function import --
+2023-09-14 09:01:29.236   Function name: PDLM_OpenDevice
+2023-09-14 09:01:29.236   DLL name: files:MyNew.dll,pquwstub.dll
+2023-09-14 09:01:29.236   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyNew.dll
+2023-09-14 09:01:29.236   Importing the DLL function.
+2023-09-14 09:01:29.236   Successfully imported the DLL function. Delay loaded? Yes
+2023-09-14 09:01:29.236   -- DLL function import --
+2023-09-14 09:01:29.236   Function name: PDLM_OpenGetSerNumAndClose
+2023-09-14 09:01:29.236   DLL name: files:MyNew.dll,pquwstub.dll
+2023-09-14 09:01:29.236   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyNew.dll
+2023-09-14 09:01:29.236   Importing the DLL function.
+2023-09-14 09:01:29.236   Successfully imported the DLL function. Delay loaded? Yes
+2023-09-14 09:01:29.236   -- DLL function import --
+2023-09-14 09:01:29.236   Function name: PDLM_CloseDevice
+2023-09-14 09:01:29.236   DLL name: files:MyNew.dll,pquwstub.dll
+2023-09-14 09:01:29.236   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyNew.dll
+2023-09-14 09:01:29.236   Importing the DLL function.
+2023-09-14 09:01:29.236   Successfully imported the DLL function. Delay loaded? Yes
+2023-09-14 09:01:29.236   -- DLL function import --
+2023-09-14 09:01:29.236   Function name: PDLM_SetExclusiveUI
+2023-09-14 09:01:29.236   DLL name: files:MyNew.dll,pquwstub.dll
+2023-09-14 09:01:29.236   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyNew.dll
+2023-09-14 09:01:29.236   Importing the DLL function.
+2023-09-14 09:01:29.236   Successfully imported the DLL function. Delay loaded? Yes
+2023-09-14 09:01:29.236   -- DLL function import --
+2023-09-14 09:01:29.236   Function name: PDLM_GetFWVersion
+2023-09-14 09:01:29.236   DLL name: files:MyNew.dll,pquwstub.dll
+2023-09-14 09:01:29.236   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyNew.dll
+2023-09-14 09:01:29.236   Importing the DLL function.
+2023-09-14 09:01:29.236   Successfully imported the DLL function. Delay loaded? Yes
+2023-09-14 09:01:29.236   -- DLL function import --
+2023-09-14 09:01:29.236   Function name: PDLM_GetCMType
+2023-09-14 09:01:29.236   DLL name: files:MyNew.dll,pquwstub.dll
+2023-09-14 09:01:29.236   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\MyNew.dll
+2023-09-14 09:01:29.236   Importing the DLL function.
+2023-09-14 09:01:29.236   Successfully imported the DLL function. Delay loaded? Yes
+2023-09-14 09:01:29.236   -- DLL function import --
+2023-09-14 09:01:29.236   Function name: TryLoad
+2023-09-14 09:01:29.236   DLL name: setup:files:chkwine.dll,pquwstub.dll
+2023-09-14 09:01:29.236   Extracting temporary file: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\chkwine.dll
+2023-09-14 09:01:29.252   Dest DLL name: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\chkwine.dll
+2023-09-14 09:01:29.252   Importing the DLL function.
+2023-09-14 09:01:29.252   Successfully imported the DLL function. Delay loaded? Yes
+2023-09-14 09:01:29.252   InitializeSetup
+2023-09-14 09:01:29.252   ...started in "C:\Users\Mikel\Documents\Acquisition\Taiko"
+2023-09-14 09:01:29.252   ...from now on running in "C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp"
+2023-09-14 09:01:29.517   InitializeWizard
+2023-09-14 09:01:30.819   NextButtonClick (WelcomePage) : 
+2023-09-14 09:01:30.819   NextButtonClick (WelcomePage) = True
+2023-09-14 09:01:33.222   NextButtonClick (LicensePage) : 
+2023-09-14 09:01:33.222   NextButtonClick (LicensePage) = True
+2023-09-14 09:01:33.819   NextButtonClick (InfoBeforePage) : 
+2023-09-14 09:01:33.819   NextButtonClick (InfoBeforePage) = True
+2023-09-14 09:01:56.929   NextButtonClick (SelectDirPage) : 
+2023-09-14 09:01:56.929   NextButtonClick (SelectDirPage) = True
+2023-09-14 09:01:58.911   NextButtonClick (SelectComponentsPage) : 
+2023-09-14 09:01:58.911   NextButtonClick (SelectComponentsPage) = True
+2023-09-14 09:02:00.048   NextButtonClick (SelectTasksPage) : 
+2023-09-14 09:02:00.048   NextButtonClick (SelectTasksPage) = True
+2023-09-14 09:02:01.238   NextButtonClick (ReadyPage) : 
+2023-09-14 09:02:01.238   NextButtonClick (ReadyPage) = True
+2023-09-14 09:02:01.240   IsX64 = true
+2023-09-14 09:02:01.240   IsX64 = true
+2023-09-14 09:02:01.249   IsX64 = true
+2023-09-14 09:02:01.249   IsX64 = true
+2023-09-14 09:02:01.299   CurStepChanged (ssInstall) : 
+2023-09-14 09:02:01.299   Starting the installation process.
+2023-09-14 09:02:01.299   IsX64 = true
+2023-09-14 09:02:01.299   IsX64 = true
+2023-09-14 09:02:01.311   Creating directory: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1
+2023-09-14 09:02:01.320   Creating directory: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_BackUp_App
+2023-09-14 09:02:01.320   Creating directory: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_BackUp_Data
+2023-09-14 09:02:01.320   Creating directory: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_FWUpd_1_to_2
+2023-09-14 09:02:01.320   Creating directory: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_FWUpd_2
+2023-09-14 09:02:01.320   Creating directory: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Driver
+2023-09-14 09:02:01.320   Creating directory: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\Manuals
+2023-09-14 09:02:01.320   Creating directory: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\InstLogs
+2023-09-14 09:02:01.320   Creating directory: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\Taiko_Linux
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\Properties
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\Properties
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\PDLM
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\PDLM
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview
+2023-09-14 09:02:01.320   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs
+2023-09-14 09:02:01.320   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs
+2023-09-14 09:02:01.336   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\Types
+2023-09-14 09:02:01.336   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\Types
+2023-09-14 09:02:01.336   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017
+2023-09-14 09:02:01.336   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017
+2023-09-14 09:02:01.336   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib
+2023-09-14 09:02:01.336   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib
+2023-09-14 09:02:01.336   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\PDLM
+2023-09-14 09:02:01.336   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\PDLM
+2023-09-14 09:02:01.336   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview
+2023-09-14 09:02:01.336   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview
+2023-09-14 09:02:01.336   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs
+2023-09-14 09:02:01.336   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs
+2023-09-14 09:02:01.336   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Types
+2023-09-14 09:02:01.336   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Types
+2023-09-14 09:02:01.336   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\Python
+2023-09-14 09:02:01.336   Setting permissions on directory: C:\ProgramData\Taiko PDL M1\API\Demos\Python
+2023-09-14 09:02:01.336   Directory for uninstall files: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1
+2023-09-14 09:02:01.336   Creating new uninstall log: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\unins000.dat
+2023-09-14 09:02:01.367   -- File entry --
+2023-09-14 09:02:01.367   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\unins000.exe
+2023-09-14 09:02:01.398   Time stamp of our file: 2023-09-14 09:01:28.752
+2023-09-14 09:02:01.398   Installing the file.
+2023-09-14 09:02:01.429   Uninstaller requires administrator: Yes
+2023-09-14 09:02:01.445   Successfully installed the file.
+2023-09-14 09:02:01.445   -- File entry --
+2023-09-14 09:02:01.445   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_BackUp_App\unins000.dat
+2023-09-14 09:02:01.445   Time stamp of our file: 2023-09-14 09:02:01.336
+2023-09-14 09:02:01.445   Installing the file.
+2023-09-14 09:02:01.445   Successfully installed the file.
+2023-09-14 09:02:01.445   -- File entry --
+2023-09-14 09:02:01.445   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_BackUp_App\unins000.exe
+2023-09-14 09:02:01.445   Time stamp of our file: 2023-09-14 09:01:28.752
+2023-09-14 09:02:01.445   Installing the file.
+2023-09-14 09:02:01.507   Successfully installed the file.
+2023-09-14 09:02:01.507   -- File entry --
+2023-09-14 09:02:01.507   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\wprobe.dll
+2023-09-14 09:02:01.507   Time stamp of our file: 2014-08-06 10:54:52.000
+2023-09-14 09:02:01.507   Installing the file.
+2023-09-14 09:02:01.507   Successfully installed the file.
+2023-09-14 09:02:01.507   -- File entry --
+2023-09-14 09:02:01.507   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\pquwstub.dll
+2023-09-14 09:02:01.507   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:01.507   Installing the file.
+2023-09-14 09:02:01.523   Successfully installed the file.
+2023-09-14 09:02:01.523   -- File entry --
+2023-09-14 09:02:01.523   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\chkwine.dll
+2023-09-14 09:02:01.523   Time stamp of our file: 2012-04-05 15:58:54.000
+2023-09-14 09:02:01.523   Installing the file.
+2023-09-14 09:02:01.539   Successfully installed the file.
+2023-09-14 09:02:01.539   -- File entry --
+2023-09-14 09:02:01.539   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\Taiko_Linux\install
+2023-09-14 09:02:01.539   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:01.539   Installing the file.
+2023-09-14 09:02:01.554   Successfully installed the file.
+2023-09-14 09:02:01.554   -- File entry --
+2023-09-14 09:02:01.554   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\Taiko_Linux\Taiko.rules
+2023-09-14 09:02:01.554   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:01.554   Installing the file.
+2023-09-14 09:02:01.554   Successfully installed the file.
+2023-09-14 09:02:01.554   -- File entry --
+2023-09-14 09:02:01.554   Dest filename: C:\ProgramData\Taiko PDL M1\API\Taiko_Linux\install
+2023-09-14 09:02:01.554   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:01.554   Installing the file.
+2023-09-14 09:02:01.554   Creating directory: C:\ProgramData\Taiko PDL M1\API\Taiko_Linux
+2023-09-14 09:02:01.554   Successfully installed the file.
+2023-09-14 09:02:01.554   -- File entry --
+2023-09-14 09:02:01.554   Dest filename: C:\ProgramData\Taiko PDL M1\API\Taiko_Linux\Taiko.rules
+2023-09-14 09:02:01.554   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:01.554   Installing the file.
+2023-09-14 09:02:01.570   Successfully installed the file.
+2023-09-14 09:02:01.570   -- File entry --
+2023-09-14 09:02:01.570   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Inst\pquwstub.dll
+2023-09-14 09:02:01.570   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:01.570   Installing the file.
+2023-09-14 09:02:01.570   Creating directory: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Inst
+2023-09-14 09:02:01.570   Successfully installed the file.
+2023-09-14 09:02:01.570   -- File entry --
+2023-09-14 09:02:01.570   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Inst\MyOld.dll
+2023-09-14 09:02:01.570   Time stamp of our file: 2019-10-01 17:56:08.000
+2023-09-14 09:02:01.570   Installing the file.
+2023-09-14 09:02:01.601   Successfully installed the file.
+2023-09-14 09:02:01.601   -- File entry --
+2023-09-14 09:02:01.601   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Inst\MyNew.dll
+2023-09-14 09:02:01.601   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:01.601   Installing the file.
+2023-09-14 09:02:01.648   Successfully installed the file.
+2023-09-14 09:02:01.648   -- File entry --
+2023-09-14 09:02:01.648   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_FWUpd_1_to_2\FWUpd_1.exe
+2023-09-14 09:02:01.648   Time stamp of our file: 2019-10-21 13:54:44.000
+2023-09-14 09:02:01.648   Installing the file.
+2023-09-14 09:02:01.773   Successfully installed the file.
+2023-09-14 09:02:01.773   -- File entry --
+2023-09-14 09:02:01.773   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_FWUpd_1_to_2\PDLM_Lib.dll
+2023-09-14 09:02:01.773   Time stamp of our file: 2019-10-01 17:56:08.000
+2023-09-14 09:02:01.773   Installing the file.
+2023-09-14 09:02:01.820   Successfully installed the file.
+2023-09-14 09:02:01.820   -- File entry --
+2023-09-14 09:02:01.820   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_FWUpd_1_to_2\pquwstub.dll
+2023-09-14 09:02:01.820   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:01.820   Installing the file.
+2023-09-14 09:02:01.820   Successfully installed the file.
+2023-09-14 09:02:01.820   -- File entry --
+2023-09-14 09:02:01.820   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_FWUpd_1_to_2\FWoldCM0.taiko
+2023-09-14 09:02:01.820   Time stamp of our file: 2019-10-10 11:57:08.000
+2023-09-14 09:02:01.820   Installing the file.
+2023-09-14 09:02:01.861   Successfully installed the file.
+2023-09-14 09:02:01.861   -- File entry --
+2023-09-14 09:02:01.861   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_FWUpd_2\FWUpd_2.exe
+2023-09-14 09:02:01.861   Time stamp of our file: 2022-02-03 18:59:52.000
+2023-09-14 09:02:01.861   Installing the file.
+2023-09-14 09:02:01.986   Successfully installed the file.
+2023-09-14 09:02:01.986   -- File entry --
+2023-09-14 09:02:01.986   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_FWUpd_2\PDLM_Lib.dll
+2023-09-14 09:02:01.986   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:01.986   Installing the file.
+2023-09-14 09:02:02.049   Successfully installed the file.
+2023-09-14 09:02:02.049   -- File entry --
+2023-09-14 09:02:02.049   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_FWUpd_2\pquwstub.dll
+2023-09-14 09:02:02.049   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:02.049   Installing the file.
+2023-09-14 09:02:02.049   Successfully installed the file.
+2023-09-14 09:02:02.049   -- File entry --
+2023-09-14 09:02:02.049   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_FWUpd_2\FW_CM0.taiko
+2023-09-14 09:02:02.049   Time stamp of our file: 2023-06-06 10:36:54.000
+2023-09-14 09:02:02.049   Installing the file.
+2023-09-14 09:02:02.096   Successfully installed the file.
+2023-09-14 09:02:02.096   -- File entry --
+2023-09-14 09:02:02.096   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_FWUpd_2\FW_CM1.taiko
+2023-09-14 09:02:02.111   Time stamp of our file: 2023-06-06 10:36:54.000
+2023-09-14 09:02:02.111   Installing the file.
+2023-09-14 09:02:02.169   Successfully installed the file.
+2023-09-14 09:02:02.169   IsX64 = true
+2023-09-14 09:02:02.169   IsX64 = true
+2023-09-14 09:02:02.169   -- File entry --
+2023-09-14 09:02:02.169   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Inst\dpinst.exe
+2023-09-14 09:02:02.169   Time stamp of our file: 2019-10-01 17:56:06.000
+2023-09-14 09:02:02.169   Installing the file.
+2023-09-14 09:02:02.200   Successfully installed the file.
+2023-09-14 09:02:02.200   -- File entry --
+2023-09-14 09:02:02.200   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Driver\Win_10\pqlasgen2.cat
+2023-09-14 09:02:02.200   Time stamp of our file: 2023-07-20 12:12:30.000
+2023-09-14 09:02:02.200   Installing the file.
+2023-09-14 09:02:02.200   Creating directory: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Driver\Win_10
+2023-09-14 09:02:02.200   Successfully installed the file.
+2023-09-14 09:02:02.200   -- File entry --
+2023-09-14 09:02:02.200   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Driver\Win_10\pqlasgen2.inf
+2023-09-14 09:02:02.200   Time stamp of our file: 2023-07-20 11:34:40.000
+2023-09-14 09:02:02.200   Installing the file.
+2023-09-14 09:02:02.216   Successfully installed the file.
+2023-09-14 09:02:02.216   -- File entry --
+2023-09-14 09:02:02.216   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Driver\Win_8.x\pqlasgen2.cat
+2023-09-14 09:02:02.216   Time stamp of our file: 2020-06-03 11:33:00.000
+2023-09-14 09:02:02.216   Installing the file.
+2023-09-14 09:02:02.216   Creating directory: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Driver\Win_8.x
+2023-09-14 09:02:02.216   Successfully installed the file.
+2023-09-14 09:02:02.216   -- File entry --
+2023-09-14 09:02:02.216   Dest filename: C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Driver\Win_8.x\pqlasgen2.inf
+2023-09-14 09:02:02.216   Time stamp of our file: 2020-06-03 11:33:00.000
+2023-09-14 09:02:02.216   Installing the file.
+2023-09-14 09:02:02.216   Successfully installed the file.
+2023-09-14 09:02:02.216   -- File entry --
+2023-09-14 09:02:02.216   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\PDLM_Drv.exe
+2023-09-14 09:02:02.216   Time stamp of our file: 2022-02-03 17:38:36.000
+2023-09-14 09:02:02.216   Installing the file.
+2023-09-14 09:02:02.395   Successfully installed the file.
+2023-09-14 09:02:02.396   -- File entry --
+2023-09-14 09:02:02.396   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\PDLM_Lib.dll
+2023-09-14 09:02:02.396   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:02.396   Installing the file.
+2023-09-14 09:02:02.428   Successfully installed the file.
+2023-09-14 09:02:02.428   -- File entry --
+2023-09-14 09:02:02.428   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\pquwstub.dll
+2023-09-14 09:02:02.428   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:02.428   Dest file exists.
+2023-09-14 09:02:02.428   Time stamp of existing file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:02.428   Installing the file.
+2023-09-14 09:02:02.443   Successfully installed the file.
+2023-09-14 09:02:02.443   -- File entry --
+2023-09-14 09:02:02.443   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\PQDark.vsf
+2023-09-14 09:02:02.443   Time stamp of our file: 2019-10-01 17:56:00.000
+2023-09-14 09:02:02.443   Installing the file.
+2023-09-14 09:02:02.443   Successfully installed the file.
+2023-09-14 09:02:02.443   -- File entry --
+2023-09-14 09:02:02.443   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\PQStyle.vsf
+2023-09-14 09:02:02.443   Time stamp of our file: 2019-10-01 17:56:00.000
+2023-09-14 09:02:02.443   Installing the file.
+2023-09-14 09:02:02.443   Successfully installed the file.
+2023-09-14 09:02:02.443   -- File entry --
+2023-09-14 09:02:02.443   Dest filename: C:\ProgramData\Taiko PDL M1\API\Win32\PDLM_Drv32.exe
+2023-09-14 09:02:02.443   Time stamp of our file: 2022-02-03 17:38:36.000
+2023-09-14 09:02:02.443   Installing the file.
+2023-09-14 09:02:02.443   Creating directory: C:\ProgramData\Taiko PDL M1\API\Win32
+2023-09-14 09:02:02.553   Successfully installed the file.
+2023-09-14 09:02:02.568   -- File entry --
+2023-09-14 09:02:02.568   Dest filename: C:\ProgramData\Taiko PDL M1\API\Win32\PDLM_Lib.dll
+2023-09-14 09:02:02.568   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:02.568   Installing the file.
+2023-09-14 09:02:02.615   Successfully installed the file.
+2023-09-14 09:02:02.615   -- File entry --
+2023-09-14 09:02:02.615   Dest filename: C:\ProgramData\Taiko PDL M1\API\Win32\pquwstub.dll
+2023-09-14 09:02:02.615   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:02.615   Installing the file.
+2023-09-14 09:02:02.615   Successfully installed the file.
+2023-09-14 09:02:02.615   -- File entry --
+2023-09-14 09:02:02.631   Dest filename: C:\ProgramData\Taiko PDL M1\API\Win32\PDLM_Lib.lib
+2023-09-14 09:02:02.631   Time stamp of our file: 2022-10-14 12:20:10.000
+2023-09-14 09:02:02.631   Installing the file.
+2023-09-14 09:02:02.631   Successfully installed the file.
+2023-09-14 09:02:02.631   -- File entry --
+2023-09-14 09:02:02.631   Dest filename: C:\ProgramData\Taiko PDL M1\API\Win32\PQDark.vsf
+2023-09-14 09:02:02.631   Time stamp of our file: 2019-10-01 17:56:00.000
+2023-09-14 09:02:02.631   Installing the file.
+2023-09-14 09:02:02.631   Successfully installed the file.
+2023-09-14 09:02:02.631   -- File entry --
+2023-09-14 09:02:02.631   Dest filename: C:\ProgramData\Taiko PDL M1\API\Win32\PQStyle.vsf
+2023-09-14 09:02:02.631   Time stamp of our file: 2019-10-01 17:56:00.000
+2023-09-14 09:02:02.631   Installing the file.
+2023-09-14 09:02:02.651   Successfully installed the file.
+2023-09-14 09:02:02.651   -- File entry --
+2023-09-14 09:02:02.651   Dest filename: C:\ProgramData\Taiko PDL M1\API\x64\PDLM_Drv64.exe
+2023-09-14 09:02:02.651   Time stamp of our file: 2022-02-03 17:38:36.000
+2023-09-14 09:02:02.651   Installing the file.
+2023-09-14 09:02:02.651   Creating directory: C:\ProgramData\Taiko PDL M1\API\x64
+2023-09-14 09:02:02.855   Successfully installed the file.
+2023-09-14 09:02:02.855   -- File entry --
+2023-09-14 09:02:02.855   Dest filename: C:\ProgramData\Taiko PDL M1\API\x64\PDLM_Lib.dll
+2023-09-14 09:02:02.855   Time stamp of our file: 2022-10-14 12:22:18.000
+2023-09-14 09:02:02.855   Installing the file.
+2023-09-14 09:02:02.886   Successfully installed the file.
+2023-09-14 09:02:02.886   -- File entry --
+2023-09-14 09:02:02.886   Dest filename: C:\ProgramData\Taiko PDL M1\API\x64\ReadMe_Linux64.txt
+2023-09-14 09:02:02.886   Time stamp of our file: 2020-10-29 12:08:08.000
+2023-09-14 09:02:02.886   Installing the file.
+2023-09-14 09:02:02.886   Successfully installed the file.
+2023-09-14 09:02:02.886   -- File entry --
+2023-09-14 09:02:02.886   Dest filename: C:\ProgramData\Taiko PDL M1\API\x64\PDLM_Lib.lib
+2023-09-14 09:02:02.886   Time stamp of our file: 2022-10-14 12:22:14.000
+2023-09-14 09:02:02.886   Installing the file.
+2023-09-14 09:02:02.901   Successfully installed the file.
+2023-09-14 09:02:02.901   -- File entry --
+2023-09-14 09:02:02.901   Dest filename: C:\ProgramData\Taiko PDL M1\API\x64\PQDark.vsf
+2023-09-14 09:02:02.901   Time stamp of our file: 2019-10-01 17:56:00.000
+2023-09-14 09:02:02.901   Installing the file.
+2023-09-14 09:02:02.914   Successfully installed the file.
+2023-09-14 09:02:02.914   -- File entry --
+2023-09-14 09:02:02.914   Dest filename: C:\ProgramData\Taiko PDL M1\API\x64\PQStyle.vsf
+2023-09-14 09:02:02.914   Time stamp of our file: 2019-10-01 17:56:00.000
+2023-09-14 09:02:02.914   Installing the file.
+2023-09-14 09:02:02.914   Successfully installed the file.
+2023-09-14 09:02:02.914   -- File entry --
+2023-09-14 09:02:02.914   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\Manuals\Taiko_Manual.pdf
+2023-09-14 09:02:02.914   Time stamp of our file: 2023-06-20 12:09:24.000
+2023-09-14 09:02:02.914   Installing the file.
+2023-09-14 09:02:03.352   Successfully installed the file.
+2023-09-14 09:02:03.352   -- File entry --
+2023-09-14 09:02:03.352   Dest filename: C:\ProgramData\Taiko PDL M1\API\Taiko_Manual.pdf
+2023-09-14 09:02:03.352   Time stamp of our file: 2023-06-20 12:09:24.000
+2023-09-14 09:02:03.352   Installing the file.
+2023-09-14 09:02:03.391   Successfully installed the file.
+2023-09-14 09:02:03.391   -- File entry --
+2023-09-14 09:02:03.391   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\Manuals\Taiko_API_Manual.pdf
+2023-09-14 09:02:03.391   Time stamp of our file: 2021-05-21 12:33:36.000
+2023-09-14 09:02:03.391   Installing the file.
+2023-09-14 09:02:03.406   Successfully installed the file.
+2023-09-14 09:02:03.406   -- File entry --
+2023-09-14 09:02:03.406   Dest filename: C:\ProgramData\Taiko PDL M1\API\Taiko_API_Manual.pdf
+2023-09-14 09:02:03.406   Time stamp of our file: 2021-05-21 12:33:36.000
+2023-09-14 09:02:03.406   Installing the file.
+2023-09-14 09:02:03.422   Successfully installed the file.
+2023-09-14 09:02:03.422   -- File entry --
+2023-09-14 09:02:03.422   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\CommandlineSwitches.txt
+2023-09-14 09:02:03.422   Time stamp of our file: 2019-10-01 17:56:02.000
+2023-09-14 09:02:03.422   Installing the file.
+2023-09-14 09:02:03.422   Successfully installed the file.
+2023-09-14 09:02:03.422   -- File entry --
+2023-09-14 09:02:03.422   Dest filename: C:\ProgramData\Taiko PDL M1\API\CommandlineSwitches.txt
+2023-09-14 09:02:03.422   Time stamp of our file: 2019-10-01 17:56:02.000
+2023-09-14 09:02:03.422   Installing the file.
+2023-09-14 09:02:03.438   Successfully installed the file.
+2023-09-14 09:02:03.438   -- File entry --
+2023-09-14 09:02:03.438   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\Release.txt
+2023-09-14 09:02:03.438   Time stamp of our file: 2023-07-21 14:23:46.000
+2023-09-14 09:02:03.438   Installing the file.
+2023-09-14 09:02:03.438   Successfully installed the file.
+2023-09-14 09:02:03.438   -- File entry --
+2023-09-14 09:02:03.438   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\PDLMUser_ErrorCodes.pas
+2023-09-14 09:02:03.438   Time stamp of our file: 2019-10-01 17:54:58.000
+2023-09-14 09:02:03.438   Installing the file.
+2023-09-14 09:02:03.438   Successfully installed the file.
+2023-09-14 09:02:03.438   -- File entry --
+2023-09-14 09:02:03.438   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\PDLMUser_HelperUnit.pas
+2023-09-14 09:02:03.438   Time stamp of our file: 2019-10-01 17:54:58.000
+2023-09-14 09:02:03.438   Installing the file.
+2023-09-14 09:02:03.453   Successfully installed the file.
+2023-09-14 09:02:03.453   -- File entry --
+2023-09-14 09:02:03.453   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\PDLMUser_ImportUnit.pas
+2023-09-14 09:02:03.453   Time stamp of our file: 2020-10-29 12:07:58.000
+2023-09-14 09:02:03.453   Installing the file.
+2023-09-14 09:02:03.453   Successfully installed the file.
+2023-09-14 09:02:03.453   -- File entry --
+2023-09-14 09:02:03.453   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\PDLMUser_TagsUnit.pas
+2023-09-14 09:02:03.453   Time stamp of our file: 2019-10-11 21:19:34.000
+2023-09-14 09:02:03.453   Installing the file.
+2023-09-14 09:02:03.469   Successfully installed the file.
+2023-09-14 09:02:03.469   -- File entry --
+2023-09-14 09:02:03.469   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\PDLM_ComprehensiveDemo.dpr
+2023-09-14 09:02:03.469   Time stamp of our file: 2019-10-01 17:55:00.000
+2023-09-14 09:02:03.469   Installing the file.
+2023-09-14 09:02:03.469   Successfully installed the file.
+2023-09-14 09:02:03.469   -- File entry --
+2023-09-14 09:02:03.469   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\PDLM_ComprehensiveDemo.dproj
+2023-09-14 09:02:03.469   Time stamp of our file: 2020-11-03 15:14:44.000
+2023-09-14 09:02:03.469   Installing the file.
+2023-09-14 09:02:03.469   Successfully installed the file.
+2023-09-14 09:02:03.469   -- File entry --
+2023-09-14 09:02:03.469   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\PDLM_SimpleDemo.dpr
+2023-09-14 09:02:03.469   Time stamp of our file: 2019-10-11 21:14:16.000
+2023-09-14 09:02:03.469   Installing the file.
+2023-09-14 09:02:03.484   Successfully installed the file.
+2023-09-14 09:02:03.484   -- File entry --
+2023-09-14 09:02:03.484   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\PDLM_SimpleDemo.dproj
+2023-09-14 09:02:03.484   Time stamp of our file: 2020-11-03 15:14:44.000
+2023-09-14 09:02:03.484   Installing the file.
+2023-09-14 09:02:03.484   Successfully installed the file.
+2023-09-14 09:02:03.484   -- File entry --
+2023-09-14 09:02:03.484   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win32\Debug\PDLM_ComprehensiveDemo.exe
+2023-09-14 09:02:03.484   Time stamp of our file: 2022-01-13 14:48:08.000
+2023-09-14 09:02:03.484   Installing the file.
+2023-09-14 09:02:03.484   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win32
+2023-09-14 09:02:03.484   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win32\Debug
+2023-09-14 09:02:03.656   Successfully installed the file.
+2023-09-14 09:02:03.656   -- File entry --
+2023-09-14 09:02:03.656   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win32\Debug\PDLM_SimpleDemo.exe
+2023-09-14 09:02:03.656   Time stamp of our file: 2022-01-13 14:48:10.000
+2023-09-14 09:02:03.656   Installing the file.
+2023-09-14 09:02:03.734   Successfully installed the file.
+2023-09-14 09:02:03.734   -- File entry --
+2023-09-14 09:02:03.734   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win32\Release\PDLM_ComprehensiveDemo.exe
+2023-09-14 09:02:03.734   Time stamp of our file: 2022-01-13 14:48:08.000
+2023-09-14 09:02:03.734   Installing the file.
+2023-09-14 09:02:03.734   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win32\Release
+2023-09-14 09:02:03.790   Successfully installed the file.
+2023-09-14 09:02:03.805   -- File entry --
+2023-09-14 09:02:03.805   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win32\Release\PDLM_SimpleDemo.exe
+2023-09-14 09:02:03.805   Time stamp of our file: 2022-01-13 14:48:10.000
+2023-09-14 09:02:03.805   Installing the file.
+2023-09-14 09:02:03.868   Successfully installed the file.
+2023-09-14 09:02:03.868   -- File entry --
+2023-09-14 09:02:03.868   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win64\Debug\PDLM_ComprehensiveDemo.exe
+2023-09-14 09:02:03.868   Time stamp of our file: 2022-01-13 14:48:08.000
+2023-09-14 09:02:03.868   Installing the file.
+2023-09-14 09:02:03.868   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win64
+2023-09-14 09:02:03.868   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win64\Debug
+2023-09-14 09:02:04.040   Successfully installed the file.
+2023-09-14 09:02:04.040   -- File entry --
+2023-09-14 09:02:04.040   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win64\Debug\PDLM_SimpleDemo.exe
+2023-09-14 09:02:04.040   Time stamp of our file: 2022-01-13 14:48:10.000
+2023-09-14 09:02:04.040   Installing the file.
+2023-09-14 09:02:04.118   Successfully installed the file.
+2023-09-14 09:02:04.118   -- File entry --
+2023-09-14 09:02:04.118   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win64\Release\PDLM_ComprehensiveDemo.exe
+2023-09-14 09:02:04.118   Time stamp of our file: 2022-01-13 14:48:10.000
+2023-09-14 09:02:04.118   Installing the file.
+2023-09-14 09:02:04.118   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win64\Release
+2023-09-14 09:02:04.180   Successfully installed the file.
+2023-09-14 09:02:04.180   -- File entry --
+2023-09-14 09:02:04.180   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win64\Release\PDLM_SimpleDemo.exe
+2023-09-14 09:02:04.180   Time stamp of our file: 2022-01-13 14:48:10.000
+2023-09-14 09:02:04.180   Installing the file.
+2023-09-14 09:02:04.258   Successfully installed the file.
+2023-09-14 09:02:04.258   -- File entry --
+2023-09-14 09:02:04.258   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win32\Debug\PDLM_Lib.dll
+2023-09-14 09:02:04.258   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:04.258   Installing the file.
+2023-09-14 09:02:04.274   Successfully installed the file.
+2023-09-14 09:02:04.274   -- File entry --
+2023-09-14 09:02:04.274   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win32\Release\PDLM_Lib.dll
+2023-09-14 09:02:04.274   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:04.274   Installing the file.
+2023-09-14 09:02:04.305   Successfully installed the file.
+2023-09-14 09:02:04.305   -- File entry --
+2023-09-14 09:02:04.305   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win32\Debug\pquwstub.dll
+2023-09-14 09:02:04.305   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:04.305   Installing the file.
+2023-09-14 09:02:04.326   Successfully installed the file.
+2023-09-14 09:02:04.326   -- File entry --
+2023-09-14 09:02:04.326   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win32\Release\pquwstub.dll
+2023-09-14 09:02:04.326   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:04.326   Installing the file.
+2023-09-14 09:02:04.326   Successfully installed the file.
+2023-09-14 09:02:04.326   -- File entry --
+2023-09-14 09:02:04.326   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win64\Debug\PDLM_Lib.dll
+2023-09-14 09:02:04.342   Time stamp of our file: 2022-10-14 12:22:18.000
+2023-09-14 09:02:04.342   Installing the file.
+2023-09-14 09:02:04.357   Successfully installed the file.
+2023-09-14 09:02:04.357   -- File entry --
+2023-09-14 09:02:04.357   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win64\Release\PDLM_Lib.dll
+2023-09-14 09:02:04.357   Time stamp of our file: 2022-10-14 12:22:18.000
+2023-09-14 09:02:04.357   Installing the file.
+2023-09-14 09:02:04.373   Successfully installed the file.
+2023-09-14 09:02:04.373   -- File entry --
+2023-09-14 09:02:04.373   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win64\Debug\ReadMe_Linux64.txt
+2023-09-14 09:02:04.389   Time stamp of our file: 2020-10-29 12:08:08.000
+2023-09-14 09:02:04.389   Installing the file.
+2023-09-14 09:02:04.389   Successfully installed the file.
+2023-09-14 09:02:04.389   -- File entry --
+2023-09-14 09:02:04.389   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Delphi\Win64\Release\ReadMe_Linux64.txt
+2023-09-14 09:02:04.389   Time stamp of our file: 2020-10-29 12:08:08.000
+2023-09-14 09:02:04.389   Installing the file.
+2023-09-14 09:02:04.389   Successfully installed the file.
+2023-09-14 09:02:04.389   -- File entry --
+2023-09-14 09:02:04.389   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\PDLM_SimpleDemo.c
+2023-09-14 09:02:04.389   Time stamp of our file: 2020-06-03 11:32:52.000
+2023-09-14 09:02:04.389   Installing the file.
+2023-09-14 09:02:04.404   Successfully installed the file.
+2023-09-14 09:02:04.404   -- File entry --
+2023-09-14 09:02:04.404   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\PDLM_SimpleDemo.vcxproj
+2023-09-14 09:02:04.404   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:04.404   Installing the file.
+2023-09-14 09:02:04.404   Successfully installed the file.
+2023-09-14 09:02:04.404   -- File entry --
+2023-09-14 09:02:04.404   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Common_Files\PDLMUser.h
+2023-09-14 09:02:04.404   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:04.404   Installing the file.
+2023-09-14 09:02:04.404   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Common_Files
+2023-09-14 09:02:04.404   Successfully installed the file.
+2023-09-14 09:02:04.404   -- File entry --
+2023-09-14 09:02:04.404   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Common_Files\PDLMUser_errorcodes.h
+2023-09-14 09:02:04.404   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:04.404   Installing the file.
+2023-09-14 09:02:04.404   Successfully installed the file.
+2023-09-14 09:02:04.404   -- File entry --
+2023-09-14 09:02:04.404   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Common_Files\PDLMUser_status_defs.h
+2023-09-14 09:02:04.404   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:04.404   Installing the file.
+2023-09-14 09:02:04.420   Successfully installed the file.
+2023-09-14 09:02:04.420   -- File entry --
+2023-09-14 09:02:04.420   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Common_Files\PDLMUser_tag_defs.h
+2023-09-14 09:02:04.420   Time stamp of our file: 2019-10-11 18:28:20.000
+2023-09-14 09:02:04.420   Installing the file.
+2023-09-14 09:02:04.420   Successfully installed the file.
+2023-09-14 09:02:04.420   -- File entry --
+2023-09-14 09:02:04.420   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Common_Files\PDLMUser_type_defs.h
+2023-09-14 09:02:04.420   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:04.420   Installing the file.
+2023-09-14 09:02:04.420   Successfully installed the file.
+2023-09-14 09:02:04.420   -- File entry --
+2023-09-14 09:02:04.420   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Common_Files\PDLMUser_ui_defs.h
+2023-09-14 09:02:04.420   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:04.420   Installing the file.
+2023-09-14 09:02:04.420   Successfully installed the file.
+2023-09-14 09:02:04.420   -- File entry --
+2023-09-14 09:02:04.420   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32\Debug\PDLM_SimpleDemo.exe
+2023-09-14 09:02:04.420   Time stamp of our file: 2022-01-13 13:34:10.000
+2023-09-14 09:02:04.420   Installing the file.
+2023-09-14 09:02:04.420   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32
+2023-09-14 09:02:04.420   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32\Debug
+2023-09-14 09:02:04.482   Successfully installed the file.
+2023-09-14 09:02:04.482   -- File entry --
+2023-09-14 09:02:04.482   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32\Debug\PDLM_SimpleDemo.vcxproj.FileListAbsolute.txt
+2023-09-14 09:02:04.482   Time stamp of our file: 2022-01-13 13:34:06.000
+2023-09-14 09:02:04.482   Installing the file.
+2023-09-14 09:02:04.482   Successfully installed the file.
+2023-09-14 09:02:04.482   -- File entry --
+2023-09-14 09:02:04.482   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32\Release\PDLM_SimpleDemo.exe
+2023-09-14 09:02:04.482   Time stamp of our file: 2022-01-13 13:34:06.000
+2023-09-14 09:02:04.482   Installing the file.
+2023-09-14 09:02:04.482   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32\Release
+2023-09-14 09:02:04.514   Successfully installed the file.
+2023-09-14 09:02:04.514   -- File entry --
+2023-09-14 09:02:04.514   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32\Release\PDLM_SimpleDemo.vcxproj.FileListAbsolute.txt
+2023-09-14 09:02:04.514   Time stamp of our file: 2022-01-13 13:34:02.000
+2023-09-14 09:02:04.514   Installing the file.
+2023-09-14 09:02:04.529   Successfully installed the file.
+2023-09-14 09:02:04.529   -- File entry --
+2023-09-14 09:02:04.529   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64\Debug\PDLM_SimpleDemo.exe
+2023-09-14 09:02:04.529   Time stamp of our file: 2022-01-13 13:34:14.000
+2023-09-14 09:02:04.529   Installing the file.
+2023-09-14 09:02:04.529   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64
+2023-09-14 09:02:04.529   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64\Debug
+2023-09-14 09:02:04.576   Successfully installed the file.
+2023-09-14 09:02:04.576   -- File entry --
+2023-09-14 09:02:04.576   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64\Debug\PDLM_SimpleDemo.vcxproj.FileListAbsolute.txt
+2023-09-14 09:02:04.576   Time stamp of our file: 2022-01-13 13:34:10.000
+2023-09-14 09:02:04.576   Installing the file.
+2023-09-14 09:02:04.576   Successfully installed the file.
+2023-09-14 09:02:04.576   -- File entry --
+2023-09-14 09:02:04.576   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64\Release\PDLM_SimpleDemo.exe
+2023-09-14 09:02:04.576   Time stamp of our file: 2022-01-13 13:34:18.000
+2023-09-14 09:02:04.576   Installing the file.
+2023-09-14 09:02:04.576   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64\Release
+2023-09-14 09:02:04.607   Successfully installed the file.
+2023-09-14 09:02:04.607   -- File entry --
+2023-09-14 09:02:04.607   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64\Release\PDLM_SimpleDemo.vcxproj.FileListAbsolute.txt
+2023-09-14 09:02:04.607   Time stamp of our file: 2022-01-13 13:34:14.000
+2023-09-14 09:02:04.607   Installing the file.
+2023-09-14 09:02:04.607   Successfully installed the file.
+2023-09-14 09:02:04.607   -- File entry --
+2023-09-14 09:02:04.607   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32\Debug\PDLM_Lib.dll
+2023-09-14 09:02:04.607   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:04.607   Installing the file.
+2023-09-14 09:02:04.639   Successfully installed the file.
+2023-09-14 09:02:04.639   -- File entry --
+2023-09-14 09:02:04.639   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32\Release\PDLM_Lib.dll
+2023-09-14 09:02:04.639   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:04.639   Installing the file.
+2023-09-14 09:02:04.654   Successfully installed the file.
+2023-09-14 09:02:04.670   -- File entry --
+2023-09-14 09:02:04.670   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32\Debug\pquwstub.dll
+2023-09-14 09:02:04.670   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:04.670   Installing the file.
+2023-09-14 09:02:04.682   Successfully installed the file.
+2023-09-14 09:02:04.682   -- File entry --
+2023-09-14 09:02:04.682   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32\Release\pquwstub.dll
+2023-09-14 09:02:04.682   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:04.682   Installing the file.
+2023-09-14 09:02:04.697   Successfully installed the file.
+2023-09-14 09:02:04.697   -- File entry --
+2023-09-14 09:02:04.697   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64\Debug\PDLM_Lib.dll
+2023-09-14 09:02:04.697   Time stamp of our file: 2022-10-14 12:22:18.000
+2023-09-14 09:02:04.697   Installing the file.
+2023-09-14 09:02:04.713   Successfully installed the file.
+2023-09-14 09:02:04.713   -- File entry --
+2023-09-14 09:02:04.713   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64\Release\PDLM_Lib.dll
+2023-09-14 09:02:04.713   Time stamp of our file: 2022-10-14 12:22:18.000
+2023-09-14 09:02:04.713   Installing the file.
+2023-09-14 09:02:04.729   Successfully installed the file.
+2023-09-14 09:02:04.729   -- File entry --
+2023-09-14 09:02:04.729   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64\Debug\ReadMe_Linux64.txt
+2023-09-14 09:02:04.729   Time stamp of our file: 2020-10-29 12:08:08.000
+2023-09-14 09:02:04.729   Installing the file.
+2023-09-14 09:02:04.729   Successfully installed the file.
+2023-09-14 09:02:04.729   -- File entry --
+2023-09-14 09:02:04.729   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64\Release\ReadMe_Linux64.txt
+2023-09-14 09:02:04.729   Time stamp of our file: 2020-10-29 12:08:08.000
+2023-09-14 09:02:04.729   Installing the file.
+2023-09-14 09:02:04.729   Successfully installed the file.
+2023-09-14 09:02:04.729   -- File entry --
+2023-09-14 09:02:04.729   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32\Debug\PDLM_Lib.lib
+2023-09-14 09:02:04.729   Time stamp of our file: 2022-10-14 12:20:10.000
+2023-09-14 09:02:04.729   Installing the file.
+2023-09-14 09:02:04.744   Successfully installed the file.
+2023-09-14 09:02:04.744   -- File entry --
+2023-09-14 09:02:04.744   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\Win32\Release\PDLM_Lib.lib
+2023-09-14 09:02:04.744   Time stamp of our file: 2022-10-14 12:20:10.000
+2023-09-14 09:02:04.744   Installing the file.
+2023-09-14 09:02:04.744   Successfully installed the file.
+2023-09-14 09:02:04.744   -- File entry --
+2023-09-14 09:02:04.744   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64\Debug\PDLM_Lib.lib
+2023-09-14 09:02:04.744   Time stamp of our file: 2022-10-14 12:22:14.000
+2023-09-14 09:02:04.744   Installing the file.
+2023-09-14 09:02:04.744   Successfully installed the file.
+2023-09-14 09:02:04.744   -- File entry --
+2023-09-14 09:02:04.744   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\MSVCPP\x64\Release\PDLM_Lib.lib
+2023-09-14 09:02:04.744   Time stamp of our file: 2022-10-14 12:22:14.000
+2023-09-14 09:02:04.744   Installing the file.
+2023-09-14 09:02:04.744   Successfully installed the file.
+2023-09-14 09:02:04.744   -- File entry --
+2023-09-14 09:02:04.744   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\CSharpDemo_ReadMe.txt
+2023-09-14 09:02:04.744   Time stamp of our file: 2019-10-01 17:54:58.000
+2023-09-14 09:02:04.744   Installing the file.
+2023-09-14 09:02:04.760   Successfully installed the file.
+2023-09-14 09:02:04.760   -- File entry --
+2023-09-14 09:02:04.760   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo.sln
+2023-09-14 09:02:04.760   Time stamp of our file: 2019-10-01 17:54:58.000
+2023-09-14 09:02:04.760   Installing the file.
+2023-09-14 09:02:04.760   Successfully installed the file.
+2023-09-14 09:02:04.760   -- File entry --
+2023-09-14 09:02:04.760   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\defs.cs
+2023-09-14 09:02:04.760   Time stamp of our file: 2019-10-11 19:50:42.000
+2023-09-14 09:02:04.760   Installing the file.
+2023-09-14 09:02:04.760   Successfully installed the file.
+2023-09-14 09:02:04.760   -- File entry --
+2023-09-14 09:02:04.760   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\Main.cs
+2023-09-14 09:02:04.760   Time stamp of our file: 2019-10-14 12:09:38.000
+2023-09-14 09:02:04.760   Installing the file.
+2023-09-14 09:02:04.775   Successfully installed the file.
+2023-09-14 09:02:04.775   -- File entry --
+2023-09-14 09:02:04.775   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\PDLM_SimpleDemo.csproj
+2023-09-14 09:02:04.775   Time stamp of our file: 2019-10-11 10:25:08.000
+2023-09-14 09:02:04.775   Installing the file.
+2023-09-14 09:02:04.775   Successfully installed the file.
+2023-09-14 09:02:04.775   -- File entry --
+2023-09-14 09:02:04.775   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\Program.cs
+2023-09-14 09:02:04.775   Time stamp of our file: 2020-06-03 11:32:52.000
+2023-09-14 09:02:04.775   Installing the file.
+2023-09-14 09:02:04.791   Successfully installed the file.
+2023-09-14 09:02:04.791   -- File entry --
+2023-09-14 09:02:04.791   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\Properties\AssemblyInfo.cs
+2023-09-14 09:02:04.791   Time stamp of our file: 2019-10-01 17:54:58.000
+2023-09-14 09:02:04.791   Installing the file.
+2023-09-14 09:02:04.791   Successfully installed the file.
+2023-09-14 09:02:04.791   -- File entry --
+2023-09-14 09:02:04.791   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win32\Debug\PDLM_SimpleDemo.exe
+2023-09-14 09:02:04.791   Time stamp of our file: 2020-06-03 11:32:52.000
+2023-09-14 09:02:04.791   Installing the file.
+2023-09-14 09:02:04.791   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win32
+2023-09-14 09:02:04.791   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win32\Debug
+2023-09-14 09:02:04.807   Successfully installed the file.
+2023-09-14 09:02:04.807   -- File entry --
+2023-09-14 09:02:04.807   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win32\Release\PDLM_SimpleDemo.exe
+2023-09-14 09:02:04.807   Time stamp of our file: 2020-06-03 11:32:52.000
+2023-09-14 09:02:04.807   Installing the file.
+2023-09-14 09:02:04.807   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win32\Release
+2023-09-14 09:02:04.822   Successfully installed the file.
+2023-09-14 09:02:04.822   -- File entry --
+2023-09-14 09:02:04.822   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win64\Debug\PDLM_SimpleDemo.exe
+2023-09-14 09:02:04.822   Time stamp of our file: 2020-06-03 11:32:52.000
+2023-09-14 09:02:04.822   Installing the file.
+2023-09-14 09:02:04.822   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win64
+2023-09-14 09:02:04.822   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win64\Debug
+2023-09-14 09:02:04.838   Successfully installed the file.
+2023-09-14 09:02:04.838   -- File entry --
+2023-09-14 09:02:04.838   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win64\Release\PDLM_SimpleDemo.exe
+2023-09-14 09:02:04.838   Time stamp of our file: 2020-06-03 11:32:52.000
+2023-09-14 09:02:04.838   Installing the file.
+2023-09-14 09:02:04.838   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win64\Release
+2023-09-14 09:02:04.838   Successfully installed the file.
+2023-09-14 09:02:04.838   -- File entry --
+2023-09-14 09:02:04.838   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win32\Debug\PDLM_Lib.dll
+2023-09-14 09:02:04.838   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:04.838   Installing the file.
+2023-09-14 09:02:04.869   Successfully installed the file.
+2023-09-14 09:02:04.869   -- File entry --
+2023-09-14 09:02:04.869   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win32\Release\PDLM_Lib.dll
+2023-09-14 09:02:04.869   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:04.869   Installing the file.
+2023-09-14 09:02:04.900   Successfully installed the file.
+2023-09-14 09:02:04.900   -- File entry --
+2023-09-14 09:02:04.900   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win32\Debug\pquwstub.dll
+2023-09-14 09:02:04.900   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:04.900   Installing the file.
+2023-09-14 09:02:04.900   Successfully installed the file.
+2023-09-14 09:02:04.916   -- File entry --
+2023-09-14 09:02:04.916   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win32\Release\pquwstub.dll
+2023-09-14 09:02:04.916   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:04.916   Installing the file.
+2023-09-14 09:02:04.916   Successfully installed the file.
+2023-09-14 09:02:04.916   -- File entry --
+2023-09-14 09:02:04.916   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win64\Debug\PDLM_Lib.dll
+2023-09-14 09:02:04.916   Time stamp of our file: 2022-10-14 12:22:18.000
+2023-09-14 09:02:04.916   Installing the file.
+2023-09-14 09:02:04.932   Successfully installed the file.
+2023-09-14 09:02:04.932   -- File entry --
+2023-09-14 09:02:04.932   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win64\Release\PDLM_Lib.dll
+2023-09-14 09:02:04.932   Time stamp of our file: 2022-10-14 12:22:18.000
+2023-09-14 09:02:04.932   Installing the file.
+2023-09-14 09:02:04.947   Successfully installed the file.
+2023-09-14 09:02:04.947   -- File entry --
+2023-09-14 09:02:04.947   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win64\Debug\ReadMe_Linux64.txt
+2023-09-14 09:02:04.947   Time stamp of our file: 2020-10-29 12:08:08.000
+2023-09-14 09:02:04.947   Installing the file.
+2023-09-14 09:02:04.963   Successfully installed the file.
+2023-09-14 09:02:04.963   -- File entry --
+2023-09-14 09:02:04.963   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\CSharp\PDLM_SimpleDemo\bin\Win64\Release\ReadMe_Linux64.txt
+2023-09-14 09:02:04.963   Time stamp of our file: 2020-10-29 12:08:08.000
+2023-09-14 09:02:04.963   Installing the file.
+2023-09-14 09:02:04.963   Successfully installed the file.
+2023-09-14 09:02:04.963   -- File entry --
+2023-09-14 09:02:04.963   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Python\PDLM_demo.py
+2023-09-14 09:02:04.963   Time stamp of our file: 2020-06-03 11:32:54.000
+2023-09-14 09:02:04.963   Installing the file.
+2023-09-14 09:02:04.963   Successfully installed the file.
+2023-09-14 09:02:04.963   -- File entry --
+2023-09-14 09:02:04.963   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Python\PythonDemo_ReadMe.txt
+2023-09-14 09:02:04.963   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:04.963   Installing the file.
+2023-09-14 09:02:04.978   Successfully installed the file.
+2023-09-14 09:02:04.978   -- File entry --
+2023-09-14 09:02:04.978   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Python\PDLM_Lib.dll
+2023-09-14 09:02:04.978   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:04.978   Installing the file.
+2023-09-14 09:02:05.010   Successfully installed the file.
+2023-09-14 09:02:05.010   -- File entry --
+2023-09-14 09:02:05.010   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\Python\pquwstub.dll
+2023-09-14 09:02:05.010   Time stamp of our file: 2020-06-03 11:32:50.000
+2023-09-14 09:02:05.010   Installing the file.
+2023-09-14 09:02:05.010   Successfully installed the file.
+2023-09-14 09:02:05.010   -- File entry --
+2023-09-14 09:02:05.010   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\ReadMe.txt
+2023-09-14 09:02:05.010   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.010   Installing the file.
+2023-09-14 09:02:05.010   Successfully installed the file.
+2023-09-14 09:02:05.010   -- File entry --
+2023-09-14 09:02:05.010   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\Taiko_Demo.vi
+2023-09-14 09:02:05.025   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.025   Installing the file.
+2023-09-14 09:02:05.025   Successfully installed the file.
+2023-09-14 09:02:05.025   -- File entry --
+2023-09-14 09:02:05.025   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\Taiko_Demo_WndMsg.vi
+2023-09-14 09:02:05.025   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.025   Installing the file.
+2023-09-14 09:02:05.041   Successfully installed the file.
+2023-09-14 09:02:05.041   -- File entry --
+2023-09-14 09:02:05.041   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\Taiko_SimpleDemo.vi
+2023-09-14 09:02:05.041   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.041   Installing the file.
+2023-09-14 09:02:05.041   Successfully installed the file.
+2023-09-14 09:02:05.041   -- File entry --
+2023-09-14 09:02:05.041   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\Windows Messages for LabVIEW_32.dll
+2023-09-14 09:02:05.041   Time stamp of our file: 2019-10-01 17:55:00.000
+2023-09-14 09:02:05.041   Installing the file.
+2023-09-14 09:02:05.073   Successfully installed the file.
+2023-09-14 09:02:05.073   -- File entry --
+2023-09-14 09:02:05.073   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\Windows Messages for LabVIEW_64.dll
+2023-09-14 09:02:05.073   Time stamp of our file: 2019-10-01 17:55:00.000
+2023-09-14 09:02:05.073   Installing the file.
+2023-09-14 09:02:05.088   Successfully installed the file.
+2023-09-14 09:02:05.088   -- File entry --
+2023-09-14 09:02:05.088   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\GetDLLPath.vi
+2023-09-14 09:02:05.088   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.088   Installing the file.
+2023-09-14 09:02:05.088   Successfully installed the file.
+2023-09-14 09:02:05.088   -- File entry --
+2023-09-14 09:02:05.088   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\User32_FindWindowA.vi
+2023-09-14 09:02:05.088   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.088   Installing the file.
+2023-09-14 09:02:05.104   Successfully installed the file.
+2023-09-14 09:02:05.104   -- File entry --
+2023-09-14 09:02:05.104   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\PDLM\PDLM_AllDllFunctions_UIThread.vi
+2023-09-14 09:02:05.104   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.104   Installing the file.
+2023-09-14 09:02:05.104   Successfully installed the file.
+2023-09-14 09:02:05.104   -- File entry --
+2023-09-14 09:02:05.104   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\PDLM\pdlm_lib_x86_x64_UIThread.llb
+2023-09-14 09:02:05.104   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.104   Installing the file.
+2023-09-14 09:02:05.166   Successfully installed the file.
+2023-09-14 09:02:05.166   -- File entry --
+2023-09-14 09:02:05.166   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\Windows Message Queue Example.vi
+2023-09-14 09:02:05.166   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.166   Installing the file.
+2023-09-14 09:02:05.166   Successfully installed the file.
+2023-09-14 09:02:05.166   -- File entry --
+2023-09-14 09:02:05.166   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\Windows messages for Labview (32 and 64).lvlib
+2023-09-14 09:02:05.166   Time stamp of our file: 2019-10-01 17:55:00.000
+2023-09-14 09:02:05.166   Installing the file.
+2023-09-14 09:02:05.182   Successfully installed the file.
+2023-09-14 09:02:05.182   -- File entry --
+2023-09-14 09:02:05.182   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\Create Windows Message Queue.vi
+2023-09-14 09:02:05.182   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.182   Installing the file.
+2023-09-14 09:02:05.182   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb
+2023-09-14 09:02:05.182   Successfully installed the file.
+2023-09-14 09:02:05.182   -- File entry --
+2023-09-14 09:02:05.182   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\Destroy Windows Message Queue.vi
+2023-09-14 09:02:05.182   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.182   Installing the file.
+2023-09-14 09:02:05.182   Successfully installed the file.
+2023-09-14 09:02:05.182   -- File entry --
+2023-09-14 09:02:05.182   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\Flush Windows Message Queue.vi
+2023-09-14 09:02:05.182   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.182   Installing the file.
+2023-09-14 09:02:05.198   Successfully installed the file.
+2023-09-14 09:02:05.198   -- File entry --
+2023-09-14 09:02:05.198   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\Generate Error Cluster.vi
+2023-09-14 09:02:05.198   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.198   Installing the file.
+2023-09-14 09:02:05.198   Successfully installed the file.
+2023-09-14 09:02:05.198   -- File entry --
+2023-09-14 09:02:05.198   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\Get Next Windows Message.vi
+2023-09-14 09:02:05.198   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.198   Installing the file.
+2023-09-14 09:02:05.198   Successfully installed the file.
+2023-09-14 09:02:05.198   -- File entry --
+2023-09-14 09:02:05.198   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\Get VI Window Title.vi
+2023-09-14 09:02:05.198   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.198   Installing the file.
+2023-09-14 09:02:05.213   Successfully installed the file.
+2023-09-14 09:02:05.213   -- File entry --
+2023-09-14 09:02:05.213   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\Get Window RefNum.vi
+2023-09-14 09:02:05.213   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.213   Installing the file.
+2023-09-14 09:02:05.213   Successfully installed the file.
+2023-09-14 09:02:05.213   -- File entry --
+2023-09-14 09:02:05.213   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\Not A Windows Message Queue.vi
+2023-09-14 09:02:05.213   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.213   Installing the file.
+2023-09-14 09:02:05.213   Successfully installed the file.
+2023-09-14 09:02:05.213   -- File entry --
+2023-09-14 09:02:05.213   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\Wait for Windows Message.vi
+2023-09-14 09:02:05.213   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.213   Installing the file.
+2023-09-14 09:02:05.213   Successfully installed the file.
+2023-09-14 09:02:05.213   -- File entry --
+2023-09-14 09:02:05.213   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\Win Msg Queue RefNum.ctl
+2023-09-14 09:02:05.213   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.213   Installing the file.
+2023-09-14 09:02:05.229   Successfully installed the file.
+2023-09-14 09:02:05.229   -- File entry --
+2023-09-14 09:02:05.229   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\Window Refnum.ctl
+2023-09-14 09:02:05.229   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.229   Installing the file.
+2023-09-14 09:02:05.229   Successfully installed the file.
+2023-09-14 09:02:05.229   -- File entry --
+2023-09-14 09:02:05.229   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\Windows Message Queue Size.vi
+2023-09-14 09:02:05.229   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.229   Installing the file.
+2023-09-14 09:02:05.229   Successfully installed the file.
+2023-09-14 09:02:05.229   -- File entry --
+2023-09-14 09:02:05.229   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\windows message x32.ctl
+2023-09-14 09:02:05.229   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.229   Installing the file.
+2023-09-14 09:02:05.229   Successfully installed the file.
+2023-09-14 09:02:05.229   -- File entry --
+2023-09-14 09:02:05.244   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\_lib\Windows Messages for Labview\llb\windows message x64.ctl
+2023-09-14 09:02:05.244   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.244   Installing the file.
+2023-09-14 09:02:05.244   Successfully installed the file.
+2023-09-14 09:02:05.244   -- File entry --
+2023-09-14 09:02:05.244   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\AddControl(s)ToControlStateArray.vi
+2023-09-14 09:02:05.244   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.244   Installing the file.
+2023-09-14 09:02:05.244   Successfully installed the file.
+2023-09-14 09:02:05.244   -- File entry --
+2023-09-14 09:02:05.244   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\AddControlsToControlStateArray.vi
+2023-09-14 09:02:05.244   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.244   Installing the file.
+2023-09-14 09:02:05.244   Successfully installed the file.
+2023-09-14 09:02:05.244   -- File entry --
+2023-09-14 09:02:05.244   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\AddControlToControlStateArray.vi
+2023-09-14 09:02:05.244   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.244   Installing the file.
+2023-09-14 09:02:05.260   Successfully installed the file.
+2023-09-14 09:02:05.260   -- File entry --
+2023-09-14 09:02:05.260   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\CreateStringBufferOfDefinedSize.vi
+2023-09-14 09:02:05.260   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.260   Installing the file.
+2023-09-14 09:02:05.260   Successfully installed the file.
+2023-09-14 09:02:05.260   -- File entry --
+2023-09-14 09:02:05.260   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\DLLPathFromAPPDir.vi
+2023-09-14 09:02:05.260   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.260   Installing the file.
+2023-09-14 09:02:05.260   Successfully installed the file.
+2023-09-14 09:02:05.260   -- File entry --
+2023-09-14 09:02:05.260   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\GetAttachedTaikoSerials.vi
+2023-09-14 09:02:05.260   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.260   Installing the file.
+2023-09-14 09:02:05.260   Successfully installed the file.
+2023-09-14 09:02:05.260   -- File entry --
+2023-09-14 09:02:05.260   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\GetEmptyTagValueList.vi
+2023-09-14 09:02:05.260   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.260   Installing the file.
+2023-09-14 09:02:05.276   Successfully installed the file.
+2023-09-14 09:02:05.276   -- File entry --
+2023-09-14 09:02:05.276   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\GetTagsStringsAndValues.vi
+2023-09-14 09:02:05.276   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.276   Installing the file.
+2023-09-14 09:02:05.276   Successfully installed the file.
+2023-09-14 09:02:05.276   -- File entry --
+2023-09-14 09:02:05.276   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\SetAllControlsVisibilityAndEnabledState.vi
+2023-09-14 09:02:05.276   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.276   Installing the file.
+2023-09-14 09:02:05.276   Successfully installed the file.
+2023-09-14 09:02:05.276   -- File entry --
+2023-09-14 09:02:05.276   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\SetControlsEnableDisableVisibleStates.vi
+2023-09-14 09:02:05.276   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.276   Installing the file.
+2023-09-14 09:02:05.291   Successfully installed the file.
+2023-09-14 09:02:05.291   -- File entry --
+2023-09-14 09:02:05.291   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\SetControlsVisibilityAndEnabledState.vi
+2023-09-14 09:02:05.291   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.291   Installing the file.
+2023-09-14 09:02:05.291   Successfully installed the file.
+2023-09-14 09:02:05.291   -- File entry --
+2023-09-14 09:02:05.291   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\SetControlVisibilityAndEnabledState.vi
+2023-09-14 09:02:05.291   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.291   Installing the file.
+2023-09-14 09:02:05.291   Successfully installed the file.
+2023-09-14 09:02:05.291   -- File entry --
+2023-09-14 09:02:05.291   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\SetDLLPath.vi
+2023-09-14 09:02:05.291   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.291   Installing the file.
+2023-09-14 09:02:05.291   Successfully installed the file.
+2023-09-14 09:02:05.291   -- File entry --
+2023-09-14 09:02:05.291   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\TagNameAndTypes.vi
+2023-09-14 09:02:05.291   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.291   Installing the file.
+2023-09-14 09:02:05.307   Successfully installed the file.
+2023-09-14 09:02:05.307   -- File entry --
+2023-09-14 09:02:05.307   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\Taikoi_GetSystemStatus.vi
+2023-09-14 09:02:05.307   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.307   Installing the file.
+2023-09-14 09:02:05.307   Successfully installed the file.
+2023-09-14 09:02:05.307   -- File entry --
+2023-09-14 09:02:05.307   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\Taiko_ErrorDlg.vi
+2023-09-14 09:02:05.307   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.307   Installing the file.
+2023-09-14 09:02:05.307   Successfully installed the file.
+2023-09-14 09:02:05.307   -- File entry --
+2023-09-14 09:02:05.307   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\Taiko_Init.vi
+2023-09-14 09:02:05.307   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.307   Installing the file.
+2023-09-14 09:02:05.307   Successfully installed the file.
+2023-09-14 09:02:05.307   -- File entry --
+2023-09-14 09:02:05.323   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\Taiko_LHDataToStrArray.vi
+2023-09-14 09:02:05.323   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.323   Installing the file.
+2023-09-14 09:02:05.323   Successfully installed the file.
+2023-09-14 09:02:05.323   -- File entry --
+2023-09-14 09:02:05.323   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\Taiko_ProcCmd.vi
+2023-09-14 09:02:05.323   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.323   Installing the file.
+2023-09-14 09:02:05.323   Successfully installed the file.
+2023-09-14 09:02:05.323   -- File entry --
+2023-09-14 09:02:05.323   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\Taiko_SGLToPrefix.vi
+2023-09-14 09:02:05.323   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.323   Installing the file.
+2023-09-14 09:02:05.323   Successfully installed the file.
+2023-09-14 09:02:05.323   -- File entry --
+2023-09-14 09:02:05.323   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\Taiko_TaggedValueListToStr.vi
+2023-09-14 09:02:05.323   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.323   Installing the file.
+2023-09-14 09:02:05.338   Successfully installed the file.
+2023-09-14 09:02:05.338   -- File entry --
+2023-09-14 09:02:05.338   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\Taiko_TaggedValueListToStrArray.vi
+2023-09-14 09:02:05.338   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.338   Installing the file.
+2023-09-14 09:02:05.338   Successfully installed the file.
+2023-09-14 09:02:05.338   -- File entry --
+2023-09-14 09:02:05.338   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\Taiko_Taglist.vi
+2023-09-14 09:02:05.338   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.338   Installing the file.
+2023-09-14 09:02:05.338   Successfully installed the file.
+2023-09-14 09:02:05.338   -- File entry --
+2023-09-14 09:02:05.338   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\Taiko_UIntToPrefix.vi
+2023-09-14 09:02:05.338   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.338   Installing the file.
+2023-09-14 09:02:05.338   Successfully installed the file.
+2023-09-14 09:02:05.338   -- File entry --
+2023-09-14 09:02:05.338   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\SubVIs\Taiko_UpdateTaggedValueList.vi
+2023-09-14 09:02:05.338   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.338   Installing the file.
+2023-09-14 09:02:05.354   Successfully installed the file.
+2023-09-14 09:02:05.354   -- File entry --
+2023-09-14 09:02:05.354   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\Types\ControlAttributes.ctl
+2023-09-14 09:02:05.354   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.354   Installing the file.
+2023-09-14 09:02:05.354   Successfully installed the file.
+2023-09-14 09:02:05.354   -- File entry --
+2023-09-14 09:02:05.354   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\Types\ScaleDisplayParams.ctl
+2023-09-14 09:02:05.354   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.354   Installing the file.
+2023-09-14 09:02:05.354   Successfully installed the file.
+2023-09-14 09:02:05.354   -- File entry --
+2023-09-14 09:02:05.354   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\Types\selector.ctl
+2023-09-14 09:02:05.354   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.354   Installing the file.
+2023-09-14 09:02:05.354   Successfully installed the file.
+2023-09-14 09:02:05.354   -- File entry --
+2023-09-14 09:02:05.354   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\Types\Taiko_Cmds.ctl
+2023-09-14 09:02:05.354   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.354   Installing the file.
+2023-09-14 09:02:05.369   Successfully installed the file.
+2023-09-14 09:02:05.369   -- File entry --
+2023-09-14 09:02:05.369   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\Types\Taiko_Data.ctl
+2023-09-14 09:02:05.369   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.369   Installing the file.
+2023-09-14 09:02:05.369   Successfully installed the file.
+2023-09-14 09:02:05.369   -- File entry --
+2023-09-14 09:02:05.369   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\pdlm_lib_x86\PDLM_Lib.dll
+2023-09-14 09:02:05.369   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:05.369   Installing the file.
+2023-09-14 09:02:05.369   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\pdlm_lib_x86
+2023-09-14 09:02:05.401   Successfully installed the file.
+2023-09-14 09:02:05.401   -- File entry --
+2023-09-14 09:02:05.401   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\pdlm_lib_x64\PDLM_Lib.dll
+2023-09-14 09:02:05.401   Time stamp of our file: 2022-10-14 12:22:18.000
+2023-09-14 09:02:05.401   Installing the file.
+2023-09-14 09:02:05.401   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2010\pdlm_lib_x64
+2023-09-14 09:02:05.416   Successfully installed the file.
+2023-09-14 09:02:05.416   -- File entry --
+2023-09-14 09:02:05.416   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Taiko_Demo.vi
+2023-09-14 09:02:05.416   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.416   Installing the file.
+2023-09-14 09:02:05.416   Successfully installed the file.
+2023-09-14 09:02:05.416   -- File entry --
+2023-09-14 09:02:05.416   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Taiko_Demo_64.exe
+2023-09-14 09:02:05.432   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.432   Installing the file.
+2023-09-14 09:02:05.494   Successfully installed the file.
+2023-09-14 09:02:05.494   -- File entry --
+2023-09-14 09:02:05.494   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Taiko_Demo_WndMsg.vi
+2023-09-14 09:02:05.494   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.494   Installing the file.
+2023-09-14 09:02:05.494   Successfully installed the file.
+2023-09-14 09:02:05.510   -- File entry --
+2023-09-14 09:02:05.510   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Taiko_Demo_WndMsg_64.exe
+2023-09-14 09:02:05.510   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.510   Installing the file.
+2023-09-14 09:02:05.573   Successfully installed the file.
+2023-09-14 09:02:05.573   -- File entry --
+2023-09-14 09:02:05.573   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Taiko_SimpleDemo.vi
+2023-09-14 09:02:05.573   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.573   Installing the file.
+2023-09-14 09:02:05.635   Successfully installed the file.
+2023-09-14 09:02:05.635   -- File entry --
+2023-09-14 09:02:05.635   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Taiko_SimpleDemo_64.exe
+2023-09-14 09:02:05.635   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:05.635   Installing the file.
+2023-09-14 09:02:05.698   Successfully installed the file.
+2023-09-14 09:02:05.698   -- File entry --
+2023-09-14 09:02:05.698   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Windows Messages for LabVIEW_32.dll
+2023-09-14 09:02:05.698   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.698   Installing the file.
+2023-09-14 09:02:05.713   Successfully installed the file.
+2023-09-14 09:02:05.713   -- File entry --
+2023-09-14 09:02:05.713   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Windows Messages for LabVIEW_64.dll
+2023-09-14 09:02:05.713   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.713   Installing the file.
+2023-09-14 09:02:05.729   Successfully installed the file.
+2023-09-14 09:02:05.729   -- File entry --
+2023-09-14 09:02:05.729   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\GetDLLPath.vi
+2023-09-14 09:02:05.729   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.729   Installing the file.
+2023-09-14 09:02:05.729   Successfully installed the file.
+2023-09-14 09:02:05.729   -- File entry --
+2023-09-14 09:02:05.744   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\User32_FindWindowA.vi
+2023-09-14 09:02:05.744   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.744   Installing the file.
+2023-09-14 09:02:05.758   Successfully installed the file.
+2023-09-14 09:02:05.758   -- File entry --
+2023-09-14 09:02:05.758   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\PDLM\PDLM_AllDllFunctions_UIThread.vi
+2023-09-14 09:02:05.758   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.758   Installing the file.
+2023-09-14 09:02:05.758   Successfully installed the file.
+2023-09-14 09:02:05.758   -- File entry --
+2023-09-14 09:02:05.758   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\PDLM\pdlm_lib_x86_x64_UIThread.llb
+2023-09-14 09:02:05.758   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.758   Installing the file.
+2023-09-14 09:02:05.821   Successfully installed the file.
+2023-09-14 09:02:05.821   -- File entry --
+2023-09-14 09:02:05.821   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\ReadMe.txt
+2023-09-14 09:02:05.821   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.821   Installing the file.
+2023-09-14 09:02:05.837   Successfully installed the file.
+2023-09-14 09:02:05.837   -- File entry --
+2023-09-14 09:02:05.837   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\Windows Message Queue Example.vi
+2023-09-14 09:02:05.837   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.837   Installing the file.
+2023-09-14 09:02:05.837   Successfully installed the file.
+2023-09-14 09:02:05.837   -- File entry --
+2023-09-14 09:02:05.837   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\Windows messages for Labview (32 and 64).lvlib
+2023-09-14 09:02:05.837   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.837   Installing the file.
+2023-09-14 09:02:05.852   Successfully installed the file.
+2023-09-14 09:02:05.852   -- File entry --
+2023-09-14 09:02:05.852   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\Windows Messages for Labview (C++).zip
+2023-09-14 09:02:05.852   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.852   Installing the file.
+2023-09-14 09:02:05.868   Successfully installed the file.
+2023-09-14 09:02:05.868   -- File entry --
+2023-09-14 09:02:05.868   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Create Windows Message Queue.vi
+2023-09-14 09:02:05.868   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.868   Installing the file.
+2023-09-14 09:02:05.868   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb
+2023-09-14 09:02:05.868   Successfully installed the file.
+2023-09-14 09:02:05.883   -- File entry --
+2023-09-14 09:02:05.883   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Destroy Windows Message Queue.vi
+2023-09-14 09:02:05.883   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.883   Installing the file.
+2023-09-14 09:02:05.883   Successfully installed the file.
+2023-09-14 09:02:05.883   -- File entry --
+2023-09-14 09:02:05.883   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Flush Windows Message Queue.vi
+2023-09-14 09:02:05.883   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.883   Installing the file.
+2023-09-14 09:02:05.883   Successfully installed the file.
+2023-09-14 09:02:05.883   -- File entry --
+2023-09-14 09:02:05.883   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Generate Error Cluster.vi
+2023-09-14 09:02:05.883   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.883   Installing the file.
+2023-09-14 09:02:05.883   Successfully installed the file.
+2023-09-14 09:02:05.883   -- File entry --
+2023-09-14 09:02:05.899   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Get Next Windows Message.vi
+2023-09-14 09:02:05.899   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.899   Installing the file.
+2023-09-14 09:02:05.899   Successfully installed the file.
+2023-09-14 09:02:05.899   -- File entry --
+2023-09-14 09:02:05.899   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Get VI Window Title.vi
+2023-09-14 09:02:05.899   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.899   Installing the file.
+2023-09-14 09:02:05.899   Successfully installed the file.
+2023-09-14 09:02:05.899   -- File entry --
+2023-09-14 09:02:05.899   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Get Window RefNum.vi
+2023-09-14 09:02:05.899   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.899   Installing the file.
+2023-09-14 09:02:05.899   Successfully installed the file.
+2023-09-14 09:02:05.899   -- File entry --
+2023-09-14 09:02:05.899   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Not A Windows Message Queue.vi
+2023-09-14 09:02:05.899   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.899   Installing the file.
+2023-09-14 09:02:05.915   Successfully installed the file.
+2023-09-14 09:02:05.915   -- File entry --
+2023-09-14 09:02:05.915   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Wait for Windows Message.vi
+2023-09-14 09:02:05.915   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.915   Installing the file.
+2023-09-14 09:02:05.915   Successfully installed the file.
+2023-09-14 09:02:05.915   -- File entry --
+2023-09-14 09:02:05.915   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Win Msg Queue RefNum.ctl
+2023-09-14 09:02:05.915   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.915   Installing the file.
+2023-09-14 09:02:05.915   Successfully installed the file.
+2023-09-14 09:02:05.915   -- File entry --
+2023-09-14 09:02:05.915   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Window Refnum.ctl
+2023-09-14 09:02:05.915   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.915   Installing the file.
+2023-09-14 09:02:05.915   Successfully installed the file.
+2023-09-14 09:02:05.915   -- File entry --
+2023-09-14 09:02:05.930   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Windows Message Queue Size.vi
+2023-09-14 09:02:05.930   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.930   Installing the file.
+2023-09-14 09:02:05.930   Successfully installed the file.
+2023-09-14 09:02:05.930   -- File entry --
+2023-09-14 09:02:05.930   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\windows message x32.ctl
+2023-09-14 09:02:05.930   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.930   Installing the file.
+2023-09-14 09:02:05.930   Successfully installed the file.
+2023-09-14 09:02:05.930   -- File entry --
+2023-09-14 09:02:05.930   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\windows message x64.ctl
+2023-09-14 09:02:05.930   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.930   Installing the file.
+2023-09-14 09:02:05.930   Successfully installed the file.
+2023-09-14 09:02:05.930   -- File entry --
+2023-09-14 09:02:05.930   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Windows Messages for LabVIEW_32.dll
+2023-09-14 09:02:05.930   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.930   Installing the file.
+2023-09-14 09:02:05.962   Successfully installed the file.
+2023-09-14 09:02:05.962   -- File entry --
+2023-09-14 09:02:05.962   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\_lib\Windows Messages for Labview\llb\Windows Messages for LabVIEW_64.dll
+2023-09-14 09:02:05.962   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.962   Installing the file.
+2023-09-14 09:02:05.977   Successfully installed the file.
+2023-09-14 09:02:05.977   -- File entry --
+2023-09-14 09:02:05.977   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\AddControl(s)ToControlStateArray.vi
+2023-09-14 09:02:05.977   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.977   Installing the file.
+2023-09-14 09:02:05.977   Successfully installed the file.
+2023-09-14 09:02:05.977   -- File entry --
+2023-09-14 09:02:05.977   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\AddControlsToControlStateArray.vi
+2023-09-14 09:02:05.977   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.977   Installing the file.
+2023-09-14 09:02:05.977   Successfully installed the file.
+2023-09-14 09:02:05.977   -- File entry --
+2023-09-14 09:02:05.977   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\AddControlToControlStateArray.vi
+2023-09-14 09:02:05.977   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.977   Installing the file.
+2023-09-14 09:02:05.993   Successfully installed the file.
+2023-09-14 09:02:05.993   -- File entry --
+2023-09-14 09:02:05.993   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\CreateStringBufferOfDefinedSize.vi
+2023-09-14 09:02:05.993   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.993   Installing the file.
+2023-09-14 09:02:05.993   Successfully installed the file.
+2023-09-14 09:02:05.993   -- File entry --
+2023-09-14 09:02:05.993   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\DLLPathFromAPPDir.vi
+2023-09-14 09:02:05.993   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.993   Installing the file.
+2023-09-14 09:02:05.993   Successfully installed the file.
+2023-09-14 09:02:05.993   -- File entry --
+2023-09-14 09:02:05.993   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\GetAttachedTaikoSerials.vi
+2023-09-14 09:02:05.993   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:05.993   Installing the file.
+2023-09-14 09:02:06.008   Successfully installed the file.
+2023-09-14 09:02:06.008   -- File entry --
+2023-09-14 09:02:06.008   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\GetEmptyTagValueList.vi
+2023-09-14 09:02:06.008   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.008   Installing the file.
+2023-09-14 09:02:06.008   Successfully installed the file.
+2023-09-14 09:02:06.008   -- File entry --
+2023-09-14 09:02:06.008   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\GetTagsStringsAndValues.vi
+2023-09-14 09:02:06.008   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:06.008   Installing the file.
+2023-09-14 09:02:06.008   Successfully installed the file.
+2023-09-14 09:02:06.008   -- File entry --
+2023-09-14 09:02:06.008   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\SetAllControlsVisibilityAndEnabledState.vi
+2023-09-14 09:02:06.008   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.008   Installing the file.
+2023-09-14 09:02:06.008   Successfully installed the file.
+2023-09-14 09:02:06.008   -- File entry --
+2023-09-14 09:02:06.008   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\SetControlsEnableDisableVisibleStates.vi
+2023-09-14 09:02:06.008   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.008   Installing the file.
+2023-09-14 09:02:06.024   Successfully installed the file.
+2023-09-14 09:02:06.024   -- File entry --
+2023-09-14 09:02:06.024   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\SetControlsVisibilityAndEnabledState.vi
+2023-09-14 09:02:06.024   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.024   Installing the file.
+2023-09-14 09:02:06.024   Successfully installed the file.
+2023-09-14 09:02:06.024   -- File entry --
+2023-09-14 09:02:06.024   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\SetControlVisibilityAndEnabledState.vi
+2023-09-14 09:02:06.024   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.024   Installing the file.
+2023-09-14 09:02:06.040   Successfully installed the file.
+2023-09-14 09:02:06.040   -- File entry --
+2023-09-14 09:02:06.040   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\SetDLLPath.vi
+2023-09-14 09:02:06.040   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.040   Installing the file.
+2023-09-14 09:02:06.040   Successfully installed the file.
+2023-09-14 09:02:06.040   -- File entry --
+2023-09-14 09:02:06.040   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\TagNameAndTypes.vi
+2023-09-14 09:02:06.040   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.040   Installing the file.
+2023-09-14 09:02:06.040   Successfully installed the file.
+2023-09-14 09:02:06.040   -- File entry --
+2023-09-14 09:02:06.040   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\Taikoi_GetSystemStatus.vi
+2023-09-14 09:02:06.040   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.040   Installing the file.
+2023-09-14 09:02:06.040   Successfully installed the file.
+2023-09-14 09:02:06.040   -- File entry --
+2023-09-14 09:02:06.040   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\Taiko_ErrorDlg.vi
+2023-09-14 09:02:06.040   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.040   Installing the file.
+2023-09-14 09:02:06.055   Successfully installed the file.
+2023-09-14 09:02:06.055   -- File entry --
+2023-09-14 09:02:06.055   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\Taiko_Init.vi
+2023-09-14 09:02:06.055   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:06.055   Installing the file.
+2023-09-14 09:02:06.055   Successfully installed the file.
+2023-09-14 09:02:06.055   -- File entry --
+2023-09-14 09:02:06.055   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\Taiko_LHDataToStrArray.vi
+2023-09-14 09:02:06.055   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.055   Installing the file.
+2023-09-14 09:02:06.055   Successfully installed the file.
+2023-09-14 09:02:06.055   -- File entry --
+2023-09-14 09:02:06.055   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\Taiko_ProcCmd.vi
+2023-09-14 09:02:06.055   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:06.055   Installing the file.
+2023-09-14 09:02:06.071   Successfully installed the file.
+2023-09-14 09:02:06.071   -- File entry --
+2023-09-14 09:02:06.071   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\Taiko_SGLToPrefix.vi
+2023-09-14 09:02:06.071   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.071   Installing the file.
+2023-09-14 09:02:06.071   Successfully installed the file.
+2023-09-14 09:02:06.071   -- File entry --
+2023-09-14 09:02:06.071   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\Taiko_TaggedValueListToStr.vi
+2023-09-14 09:02:06.071   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.071   Installing the file.
+2023-09-14 09:02:06.071   Successfully installed the file.
+2023-09-14 09:02:06.071   -- File entry --
+2023-09-14 09:02:06.071   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\Taiko_TaggedValueListToStrArray.vi
+2023-09-14 09:02:06.071   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:06.071   Installing the file.
+2023-09-14 09:02:06.087   Successfully installed the file.
+2023-09-14 09:02:06.087   -- File entry --
+2023-09-14 09:02:06.087   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\Taiko_Taglist.vi
+2023-09-14 09:02:06.087   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:06.087   Installing the file.
+2023-09-14 09:02:06.087   Successfully installed the file.
+2023-09-14 09:02:06.087   -- File entry --
+2023-09-14 09:02:06.087   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\Taiko_UIntToPrefix.vi
+2023-09-14 09:02:06.087   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.087   Installing the file.
+2023-09-14 09:02:06.087   Successfully installed the file.
+2023-09-14 09:02:06.087   -- File entry --
+2023-09-14 09:02:06.087   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\SubVIs\Taiko_UpdateTaggedValueList.vi
+2023-09-14 09:02:06.087   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.087   Installing the file.
+2023-09-14 09:02:06.087   Successfully installed the file.
+2023-09-14 09:02:06.087   -- File entry --
+2023-09-14 09:02:06.087   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Types\ControlAttributes.ctl
+2023-09-14 09:02:06.087   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.087   Installing the file.
+2023-09-14 09:02:06.102   Successfully installed the file.
+2023-09-14 09:02:06.102   -- File entry --
+2023-09-14 09:02:06.102   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Types\ScaleDisplayParams.ctl
+2023-09-14 09:02:06.102   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.102   Installing the file.
+2023-09-14 09:02:06.102   Successfully installed the file.
+2023-09-14 09:02:06.102   -- File entry --
+2023-09-14 09:02:06.102   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Types\selector.ctl
+2023-09-14 09:02:06.102   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.102   Installing the file.
+2023-09-14 09:02:06.102   Successfully installed the file.
+2023-09-14 09:02:06.102   -- File entry --
+2023-09-14 09:02:06.102   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Types\Taiko_Cmds.ctl
+2023-09-14 09:02:06.102   Time stamp of our file: 2019-10-01 17:55:02.000
+2023-09-14 09:02:06.102   Installing the file.
+2023-09-14 09:02:06.102   Successfully installed the file.
+2023-09-14 09:02:06.102   -- File entry --
+2023-09-14 09:02:06.102   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\Types\Taiko_Data.ctl
+2023-09-14 09:02:06.118   Time stamp of our file: 2020-10-29 12:08:00.000
+2023-09-14 09:02:06.118   Installing the file.
+2023-09-14 09:02:06.118   Successfully installed the file.
+2023-09-14 09:02:06.118   -- File entry --
+2023-09-14 09:02:06.118   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\pdlm_lib_x86\PDLM_Lib.dll
+2023-09-14 09:02:06.118   Time stamp of our file: 2022-10-14 12:20:14.000
+2023-09-14 09:02:06.118   Installing the file.
+2023-09-14 09:02:06.118   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\pdlm_lib_x86
+2023-09-14 09:02:06.134   Successfully installed the file.
+2023-09-14 09:02:06.134   -- File entry --
+2023-09-14 09:02:06.134   Dest filename: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\pdlm_lib_x64\PDLM_Lib.dll
+2023-09-14 09:02:06.149   Time stamp of our file: 2022-10-14 12:22:18.000
+2023-09-14 09:02:06.149   Installing the file.
+2023-09-14 09:02:06.149   Creating directory: C:\ProgramData\Taiko PDL M1\API\Demos\LabView\LabVIEW2017\pdlm_lib_x64
+2023-09-14 09:02:06.165   Successfully installed the file.
+2023-09-14 09:02:06.165   -- Icon entry --
+2023-09-14 09:02:06.165   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PicoQuant - Taiko PDL M1 Laser Driver\Uninstall\Uninstall Taiko PDL M1 Driver GUI.lnk
+2023-09-14 09:02:06.165   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PicoQuant - Taiko PDL M1 Laser Driver
+2023-09-14 09:02:06.165   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PicoQuant - Taiko PDL M1 Laser Driver\Uninstall
+2023-09-14 09:02:06.165   Creating the icon.
+2023-09-14 09:02:06.227   Successfully created the icon.
+2023-09-14 09:02:06.227   -- Icon entry --
+2023-09-14 09:02:06.227   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PicoQuant - Taiko PDL M1 Laser Driver\API Demos.lnk
+2023-09-14 09:02:06.227   Creating the icon.
+2023-09-14 09:02:06.227   Successfully created the icon.
+2023-09-14 09:02:06.227   -- Icon entry --
+2023-09-14 09:02:06.227   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\API Demos.lnk
+2023-09-14 09:02:06.227   Creating the icon.
+2023-09-14 09:02:06.243   Successfully created the icon.
+2023-09-14 09:02:06.243   -- Icon entry --
+2023-09-14 09:02:06.243   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PicoQuant - Taiko PDL M1 Laser Driver\API Manual (PDF).lnk
+2023-09-14 09:02:06.243   Creating the icon.
+2023-09-14 09:02:06.258   Successfully created the icon.
+2023-09-14 09:02:06.258   -- Icon entry --
+2023-09-14 09:02:06.258   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PicoQuant - Taiko PDL M1 Laser Driver\ Taiko PDL M1 on the Web.lnk
+2023-09-14 09:02:06.258   Creating the icon.
+2023-09-14 09:02:06.258   Successfully created the icon.
+2023-09-14 09:02:06.258   -- Icon entry --
+2023-09-14 09:02:06.258   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PicoQuant - Taiko PDL M1 Laser Driver\Taiko PDL M1 Manual (PDF).lnk
+2023-09-14 09:02:06.258   Creating the icon.
+2023-09-14 09:02:06.274   Successfully created the icon.
+2023-09-14 09:02:06.274   -- Icon entry --
+2023-09-14 09:02:06.274   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PicoQuant - Taiko PDL M1 Laser Driver\Taiko PDL M1 (bright).lnk
+2023-09-14 09:02:06.274   Creating the icon.
+2023-09-14 09:02:06.274   Successfully created the icon.
+2023-09-14 09:02:06.274   -- Icon entry --
+2023-09-14 09:02:06.274   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\PicoQuant - Taiko PDL M1 Laser Driver\Taiko PDL M1 (dark).lnk
+2023-09-14 09:02:06.274   Creating the icon.
+2023-09-14 09:02:06.290   Successfully created the icon.
+2023-09-14 09:02:06.290   -- INI entry --
+2023-09-14 09:02:06.290   Dest filename: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\Taiko PDL M1.url
+2023-09-14 09:02:06.290   Section: InternetShortcut
+2023-09-14 09:02:06.290   Entry: URL
+2023-09-14 09:02:06.290   Value: https://www.picoquant.com/products/category/picosecond-pulsed-driver/taiko-pdl-m1
+2023-09-14 09:02:06.290   Updating the .INI file.
+2023-09-14 09:02:06.290   Successfully updated the .INI file.
+2023-09-14 09:02:06.290   Saving uninstall information.
+2023-09-14 09:02:06.290   Writing uninstaller messages: C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1\unins000.msg
+2023-09-14 09:02:06.290   Deleting any uninstall keys left over from previous installs
+2023-09-14 09:02:06.290   Creating new uninstall key: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\Taiko PDL M1 Driver GUI_is1
+2023-09-14 09:02:06.290   Writing uninstall key values.
+2023-09-14 09:02:06.305   Installation process succeeded.
+2023-09-14 09:02:06.312   CurStepChanged (ssPostInstall) : 
+2023-09-14 09:02:06.312   ...from now on running in "C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp"
+2023-09-14 09:02:06.406      USBDriverInfo returns:     DrvName = "",   DrvVers = , DrvDate = 
+2023-09-14 09:02:06.406   GetErrorStr (new, -28)
+2023-09-14 09:02:06.406   FillInfoArray(old)
+2023-09-14 09:02:06.406   FillInfoArray(new)
+2023-09-14 09:02:06.422   Need to restart Windows? No
+2023-09-14 09:02:10.481   NextButtonClick (PreparationsPage) : 
+2023-09-14 09:02:10.486   NextButtonClick (PreparationsPage) = True
+2023-09-14 09:02:11.543   NextButtonClick (DriverInstPage) : 
+2023-09-14 09:02:25.161       ShellExec ("", 
+                                         "C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Inst\dpinst.exe", 
+                                         "/p  /path "C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\Taiko_Driver\Win_10", 
+                                         "C:\Program Files (x86)\PicoQuant\Taiko_PDL_M1", 
+                                         SW_SHOW, 
+                                         ewWaitUntilTerminated, 
+                                         ErrorCode) 
+                                returns: True, ErrorCode = 256
+2023-09-14 09:02:25.162   NextButtonClick (DriverInstPage) = True
+2023-09-14 09:02:26.792   NextButtonClick (ReportPage) : 
+2023-09-14 09:02:26.806   NextButtonClick (ReportPage) = True
+2023-09-14 09:02:28.133   NextButtonClick (InfoAfterPage) : 
+2023-09-14 09:02:28.133   NextButtonClick (InfoAfterPage) = True
+2023-09-14 09:02:28.771   NextButtonClick (FinishedPage) : 
+2023-09-14 09:02:28.775   NextButtonClick (FinishedPage) = True
+2023-09-14 09:02:28.780   CurStepChanged (ssDone) : 
+2023-09-14 09:02:28.781   Deinitializing Setup.
+2023-09-14 09:02:28.781   DeInitializeSetup
+2023-09-14 09:02:28.781   Logfile found: "C:\Users\Admin\AppData\Local\Temp\is-DJ59F.tmp\..\Setup Log 2023-09-14 #001.txt"

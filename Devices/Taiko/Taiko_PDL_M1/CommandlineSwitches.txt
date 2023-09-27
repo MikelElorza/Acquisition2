@@ -1,0 +1,51 @@
+
+               Commandline Switches for the
+              Taiko PDL M1  Laser Driver GUI
+              ==============================
+
+How to use the tables below:
+
+  - Create a link e.g. on your desktop.
+  - Open its properties window from the explorer.
+  - Select the "Shortcut" page.
+  - Edit the "Target" field and add the desired switches behind
+    the end of the program name.
+    Consider, the placeholder parts of the switch (e.g. <sn>)
+    have to be substituted by your actual values, using single 
+    or double quotes, if they contain blank spaces.
+    
+    e.g.:      -SERIAL=1029384
+    or:        -style=bright
+
+All switches are case-invariant; You may use them in any case you want, even mixed case.
+You may invoke the driver with more than a single switch, combining their options. 
+Consider, all conditions are combined in a conjunction, i.e. logically "AND". 
+If no device matches all of the conditions, an error message is launched.
+
+ +---------------+---------------------------------------------------------------------+
+ |  Switch       |  Description                                                        |
+ +---------------+---------------------------------------------------------------------+
+ |  -DEVIDX=<i>  |  or                                                                 |
+ |  /DEVIDX=<i>  |  USB-index of the PQ Laser Driver HW to use.                        |
+ |               |    (useful if there is more than one instance online)               |
+ |               |    legal values for <i> are:  0..7; (device first found is default) |
+ +---------------+---------------------------------------------------------------------+
+ |  -SERIAL=<sn> |  or                                                                 |
+ |  /SERIAL=<sn> |  Serial-Number of the Taiko PDL M1 HW to use.                       |
+ |               |    (useful if there is more than one instance online)               |
+ +---------------+---------------------------------------------------------------------+
+ |  -STYLE=<st>  |  or                                                                 |
+ |  /STYLE=<st>  |  Sets the "Skin" of the GUI.                                        |
+ |               |    legal values for <st> are:                                       |
+ |               |      dark    : dark theme    (anthracite)                           |
+ |               |      bright  : bright theme  (lightgreen)                           |
+ |               |      windows : Win Theme     (userdefined, commonly silver)         |
+ |               |    Default is dark                                                  |
+ +---------------+---------------------------------------------------------------------+
+ |  -LOGWIN      |  or                                                                 |
+ |  /LOGWIN      |  Shows an additional window with log output                         |
+ +---------------+---------------------------------------------------------------------+
+ |  -ERRORLOG    |  or                                                                 |
+ |  /ERRORLOG    |  Enables an additional menu entry to show a list of Last HW-Errors  |
+ +---------------+---------------------------------------------------------------------+
+

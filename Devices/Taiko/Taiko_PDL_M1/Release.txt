@@ -1,0 +1,12 @@
+PDLM_Drv_Setup.Exe built on 2023-07-21 14:23:46
+Released SVN-Vers. 4519;    2023-07-20
+    Remarks:
+    -     Win32 GUI 2.1.32.4496
+    -     Win32 DLL 2.1.32.4506
+    -     x64   GUI 2.1.64.4496
+    -     x64   DLL 2.1.64.4506
+    Limitations:
+    -     Installs for Linux 32-bit version only
+    Known Bugs:
+    -     none so far...
+
