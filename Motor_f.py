@@ -24,16 +24,16 @@ def connectZ():
     return zb.connectZdrive()
 
 def move_abs_z(handle,z):
-    return zb.moveZ_abs(handle,z)
+    return zb.moveZ_abs(handle,z/1000)
 
 def move_abs_xy(handle,pos):
-    pz.move_abs(handle,pos)
+    pz.move_abs(handle,pos/1000)
 
 def move_rel_z(handle,dz):
-    return zb.moveZ_rel(handle,z)
+    return zb.moveZ_rel(handle,z/1000)
 
 def move_rel_xy(handle,dx):
-    pz.move_rel(handle,pos)
+    pz.move_rel(handle,pos/1000)
     
 
 def Z_scan(handle,z0,zf,N,wait):
