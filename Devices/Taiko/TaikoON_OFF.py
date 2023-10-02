@@ -69,7 +69,7 @@ PREFIX_ZEROIDX = 6
 STD_BUFFER_LEN = 1024
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
-pdlm_lib = ct.WinDLL(dir_path+"\pdlm_lib.dll")
+pdlm_lib = ct.WinDLL(dir_path+"\API\Win64\PDLM_Lib.dll")
 
 # Classes to enable easy reading of tags
 class TValueType(ct.Union):
@@ -376,4 +376,15 @@ def ON(reprate,perc):
     
 def OFF(USB_idx):
     pdlm_lib.PDLM_CloseDevice(USB_idx)
-
+def setRepRate(USB_idx,reprate):
+    freq_set = ct.c_uint(int(reprate))
+    check_ret_value("PDLM_SetFrequency",
+                    pdlm_lib.PDLM_SetFrequency(USB_idx, freq_set),
+                    [], "  Can't set frequency.")
+    print("  Frequency now set to    : %7s" % int_get_unit_prefix(freq_set.value, "Hz"))
+def setPermille(USB_idx,perm):
+    power_permille = ct.c_uint(perm) # 5.0%
+    check_ret_value("PDLM_SetPulsePowerPermille",
+                    pdlm_lib.PDLM_SetPulsePowerPermille(USB_idx, power_permille),
+                    [], "  Can't set pulse power.")
+    print("  Frequency now set to    : %7s" % int_get_unit_prefix(power_permille.value, "permille"))

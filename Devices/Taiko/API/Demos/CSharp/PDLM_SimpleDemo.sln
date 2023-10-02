@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDLM_SimpleDemo", "PDLM_SimpleDemo\PDLM_SimpleDemo.csproj", "{E8EE2A79-D108-4C78-A633-F06267A573DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug_Win32|Any CPU = Debug_Win32|Any CPU
+		Debug_Win64|Any CPU = Debug_Win64|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release_Win32|Any CPU = Release_Win32|Any CPU
+		Release_Win64|Any CPU = Release_Win64|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8EE2A79-D108-4C78-A633-F06267A573DA}.Debug_Win32|Any CPU.ActiveCfg = Debug_Win32|Any CPU
+		{E8EE2A79-D108-4C78-A633-F06267A573DA}.Debug_Win32|Any CPU.Build.0 = Debug_Win32|Any CPU
+		{E8EE2A79-D108-4C78-A633-F06267A573DA}.Debug_Win64|Any CPU.ActiveCfg = Debug_Win64|Any CPU
+		{E8EE2A79-D108-4C78-A633-F06267A573DA}.Debug_Win64|Any CPU.Build.0 = Debug_Win64|Any CPU
+		{E8EE2A79-D108-4C78-A633-F06267A573DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8EE2A79-D108-4C78-A633-F06267A573DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8EE2A79-D108-4C78-A633-F06267A573DA}.Release_Win32|Any CPU.ActiveCfg = Release_Win32|Any CPU
+		{E8EE2A79-D108-4C78-A633-F06267A573DA}.Release_Win32|Any CPU.Build.0 = Release_Win32|Any CPU
+		{E8EE2A79-D108-4C78-A633-F06267A573DA}.Release_Win64|Any CPU.ActiveCfg = Release_Win64|Any CPU
+		{E8EE2A79-D108-4C78-A633-F06267A573DA}.Release_Win64|Any CPU.Build.0 = Release_Win64|Any CPU
+		{E8EE2A79-D108-4C78-A633-F06267A573DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8EE2A79-D108-4C78-A633-F06267A573DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6866A18D-D1A1-4FF9-9DAD-240C00F0BB81}
+	EndGlobalSection
+EndGlobal
