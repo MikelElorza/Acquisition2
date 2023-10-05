@@ -32,11 +32,11 @@ def setting(pdxcobj):
     else:
         print("get CalibrationIsCompleted: done")
 
-    result = pdxcobj.SetTargetSpeed(0, 15)  # PDX1:2-20 mm/s; PDX2:1-10 mm/s; PDXR:10-30 °/s
+    result = pdxcobj.SetTargetSpeed(0, 10)  # PDX1:2-20 mm/s; PDX2:1-10 mm/s; PDXR:10-30 °/s
     if result < 0:
-        print("set TargetSpeed to 10 failed", result)
+        print("set TargetSpeed to 20 failed", result)
     else:
-        print("set TargetSpeed to 10")
+        print("set TargetSpeed to 20")
 
 def connect_stage(i):
     print("---- Connecting PDXC motor ----")
